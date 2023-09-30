@@ -1,0 +1,126 @@
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class SaveData : MonoBehaviour
+{
+    public Data data = new Data();
+    
+    public GameObject playerObject;
+    public GameObject enemyObject;
+
+
+    private void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
+
+        if(System.IO.File.Exists(Application.persistentDataPath + "/SaveData.json"))
+        {
+            //set le data avec les donner save dans le fichier
+            data = JsonUtility.FromJson<Data>(System.IO.File.ReadAllText(Application.persistentDataPath + "/SaveData.json"));
+
+            //Set le starter avant meme de load la scene pour eviter crash
+            PlayerCore.starter = data.starter;
+
+            SceneManager.LoadScene("SampleScene");
+        }
+    }
+
+    private void Start()
+    {
+        LoadFromJson();
+    }
+
+    public void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.S))
+        {     
+            SaveToJson();
+        }
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            LoadFromJson();
+        }
+    }
+
+    public void setAllObjectToSave()
+    {
+        playerObject = GameObject.Find("Canvas/Player");
+        enemyObject = GameObject.Find("Canvas/Enemy");
+
+        //Player
+        data.starter = PlayerCore.starter;
+        data.selectedPokemon = playerObject.GetComponent<PlayerCore>().currentPlayerPokemon;
+        data.selectedPokemonStats = playerObject.GetComponent<PlayerCore>().currentPlayerPokemonStats;
+        data.gold = playerObject.GetComponent<PlayerCore>().coin;
+        data.equipePokemonPlayer = playerObject.GetComponent<PlayerCore>().playerPokemon;
+        //data.pokedex = playerScript.;
+        //data.multiExp = playerScript.;
+        data.storagePokemon = playerObject.GetComponent<PlayerCore>().storagePokemon;
+
+        //Enemy
+        data.badgeAvailable = enemyObject.GetComponent<EnemyCore>().badgeAvailable;
+        data.badgePlayerObtain = enemyObject.GetComponent<EnemyCore>().badgePlayerObtain;
+        data.routesActivate = enemyObject.GetComponent<EnemyCore>().routeActivate;
+    }
+
+    public void setAllObjectToLoad()
+    {
+        playerObject = GameObject.Find("Canvas/Player");
+        enemyObject = GameObject.Find("Canvas/Enemy");
+
+        //Player
+        //Deja set avant le chargement de la scene
+        //PlayerCore.starter = data.starter;
+        playerObject.GetComponent<PlayerCore>().currentPlayerPokemon = data.selectedPokemon;
+        playerObject.GetComponent<PlayerCore>().currentPlayerPokemonStats = data.selectedPokemonStats;
+        playerObject.GetComponent<PlayerCore>().coin = data.gold;
+        playerObject.GetComponent<PlayerCore>().playerPokemon = data.equipePokemonPlayer;
+        //data.pokedex = playerScript.;
+        //data.multiExp = playerScript.;
+        playerObject.GetComponent<PlayerCore>().storagePokemon = data.storagePokemon;
+
+        //Enemy
+        enemyObject.GetComponent<EnemyCore>().badgeAvailable = data.badgeAvailable;
+        enemyObject.GetComponent<EnemyCore>().badgePlayerObtain = data.badgePlayerObtain;
+        enemyObject.GetComponent<EnemyCore>().routeActivate = data.routesActivate;
+    }
+
+    public void SaveToJson()
+    {
+        setAllObjectToSave();
+        string saveData = JsonUtility.ToJson(data);
+        string filePath = Application.persistentDataPath + "/SaveData.json";
+        Debug.Log(filePath);
+        System.IO.File.WriteAllText(filePath, saveData);
+    }
+
+    public void LoadFromJson()
+    {
+        string filePath = Application.persistentDataPath + "/SaveData.json";
+        string saveData = System.IO.File.ReadAllText(filePath);
+
+        data = JsonUtility.FromJson<Data>(saveData);
+        setAllObjectToLoad();
+    }
+
+
+    [System.Serializable]
+    public class Data
+    {
+        //Player Save
+        public GameObject starter;
+        public GameObject selectedPokemon;
+        public PokemonScriptableObjectPlayer selectedPokemonStats;
+        public int gold;
+        public List<GameObject> equipePokemonPlayer;
+        public List<string> pokedex;
+        public bool multiExp;
+        public List<GameObject> storagePokemon;
+
+        //Enemy Save
+        public List<GameObject> badgeAvailable;
+        public List<GameObject> badgePlayerObtain;
+        public List<GameObject> routesActivate;
+    }
+}
