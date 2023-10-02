@@ -1,0 +1,7164 @@
+fileFormatVersion: 2
+guid: 9ccc029930d6ecd4f940c65f340b78b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8c6db403434042a88e79373c7d6ec
+      internalID: -1092764879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f5bfdfecd3a643a43308decbc0d97
+      internalID: -168782081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5413b1672706d34e8465e252364c4aa
+      internalID: -2142430896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f704567a4e9b140acd3aeced564211
+      internalID: -1939699163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d9610ac6c66848b1baf441b01bd45
+      internalID: -412426988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d44e49513a134083b6526a1b977b2
+      internalID: 744961266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af733eb901ac04daf1ff7911a54d88
+      internalID: -484882403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9017eb06feffe4cb74280119919c82
+      internalID: -1423995312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff43f6b16fa904386ffd0087ee5ef5
+      internalID: -2126265664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14624ad77e59db946912c8fb76749ae4
+      internalID: -256231613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c866ef5bdcef3940ae355259a477172
+      internalID: 1614899093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e11d2f1403f984a89348c39e669e14
+      internalID: -1235618697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dee53925fb4ea4a824080935a57159
+      internalID: 175024280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363055373586d4d49bc47459469ee491
+      internalID: -1610627907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd954a4a481ca7348abfe19c27a6bc23
+      internalID: -172186631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb940d43e6253545b25cb8d12584ad1
+      internalID: -32389700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89cfda10656284d9c15d04a1f59dd6
+      internalID: 934433483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7fcda872d98e428dabad8a4fcddbc
+      internalID: 2060483186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941dcf9d71d72614fba495ad91ae6d4a
+      internalID: -933216552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 367.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30c0e457e589045a7f03bad8978d33
+      internalID: 493181977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee680cc2b3386584b8e3171fb1e8fc77
+      internalID: 62490433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a829155cfab48234fafce55877c72b1b
+      internalID: 1938576601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b337773a16253e4f9aebe7cf485788c
+      internalID: -2111702066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a8fa2b50bc1348bfd9a154bcae099
+      internalID: 430699627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a920c6d1838929488f4bd687e1a90d1
+      internalID: -1974035077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3c649875244e4580de54ea0085502
+      internalID: 2062747193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c0a4e45f35f046b23e145eee81d21
+      internalID: -1084670542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff37b08f44b49469f60c6e5df836ab
+      internalID: -1096727488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976565dbd64df7244a6c974495fa93b3
+      internalID: 1471541573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9445e7f4634004b8003fe82337a262
+      internalID: 1771082165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229f38e45409eb47bdfd06759837c90
+      internalID: 183110118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8781793c556b9b458d394446019af7f
+      internalID: -1590518504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65597a8b2e6bd4cb424889848db713
+      internalID: 4630970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b44ae87163134c8791b489fdbe499
+      internalID: 172819158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa06babb1523b42b1e048f03556d51
+      internalID: -311102947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b8f6e4bcedfe4386b40660bb32099
+      internalID: 809064503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6304e274af1345adbad13279f4e0d
+      internalID: 664454400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82190ab60ebb3ff49977047a9dfeae71
+      internalID: -571391420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aaca647fad03d409b1923e12ae367e
+      internalID: 1056524715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 343.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18276449c9deb641b2699c739ee7e7d
+      internalID: -409489895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab976c7da42e34091a34f7d2b67c67
+      internalID: -2122308754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa327e2c02004d84ab00df437a63e3b7
+      internalID: 423907847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae154d27b081149897964df6d545ea
+      internalID: -1028805688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fad586faef48419bd214def125f44
+      internalID: -1817324664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70226feebfe5744d90c7e39e379f48b
+      internalID: -1490985776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad070e619bd56cf4fbddc63af7a4c2ab
+      internalID: -972708305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c427388547a18346bfa5a324d9a82e4
+      internalID: 1159187226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1fac6937dedbe419d7dddcc81e0270
+      internalID: -31301721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838e79c17fbbc04689f76581c979a4c
+      internalID: 800237205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769d7f0ab84d3449a7c9a2d06bf4ee7
+      internalID: 447087115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b5cb4816e3174a8691731bd980df4
+      internalID: 751692293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5fd28fc56e74468c2352f61fa4eac
+      internalID: -169337199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8219c3dc697e544589aee53b65ae620
+      internalID: 890140101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c3d9a4682da74a9d2395cc3f0efad
+      internalID: 529112490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65ed5801d43c64483132e8c81bd88d
+      internalID: 2098222902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32440be05858a94b8b99d571ba200a5
+      internalID: 516282007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30bfc5f36056c84a92ce5c652cc8df3
+      internalID: 583865792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a97f21f771d2349b58bfb3f3a1ef0d
+      internalID: -1505659590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3794220c6c3474eb0912d061d85ce0
+      internalID: -1700481272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 319.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60feeca6614ea048a6254eaee7bf658
+      internalID: -420588452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ca41718a32a843892814523a15a3b
+      internalID: 383071721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9e76d877411b4fad099766f542113
+      internalID: -281582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41e002023c22747910d4c8a2f1f259
+      internalID: 1037582997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2343d99d6c0f9d45a391330a53cb7ca
+      internalID: 1367270216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404df128cb8ad1c4db9a6526e16bb355
+      internalID: 91656911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6e6a165ad6d24ea095db3a2199c0c
+      internalID: 1066230308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022677dd8f14855419ae4ca879b4b1c0
+      internalID: -1897454910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ade2a16c33afc4aa66dd0196d05804
+      internalID: 5842971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101be84ef2350a94d8b1df0dcd69f460
+      internalID: -864126953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8f63918ff4294a99883d953bbbfe3
+      internalID: -460946176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454970ecc62d4cb4181ddcda62574597
+      internalID: -1699250605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e21bb529648fc4aa274a55088c72e2
+      internalID: 711788939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_72
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce002db7aa5d9a64c878c2d0ce9bc1c2
+      internalID: -847811002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4b6e412c45964c9c86d21d9511b70
+      internalID: 917817520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_74
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8810c281b3e4ef544ad175b3bbb572d8
+      internalID: 102536012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_75
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237e79a8489cad4192a0c59fe97e9e2
+      internalID: 410969074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110306cc5f51ba4aa79fdb7e603bef9
+      internalID: -1181812997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2fceefb5787f40af3709551343320
+      internalID: 1635807950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb016e520aed84ab25e1bdc738b0dc
+      internalID: 1431962969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_79
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 295.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db0a34153c914e41878b9033a978bed
+      internalID: 2143371186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6030337a9a81f44da3fd0250082d7e7
+      internalID: 1742733565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825ea45e4056a34b833add1aca7086e
+      internalID: -1070210069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a64887d46f2140958ba3656715ef6
+      internalID: 985238270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a8e168cb90ea4f81b70d1b9fe009b
+      internalID: -1991385369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb6009aaf39aa4ab89d890bdbb5d71
+      internalID: -752706374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eba17a11f7d2446a082b6999929e94
+      internalID: -1383612902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c414781790d2fb4d934916c439fd2e6
+      internalID: 114742886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c039abc8b6f9b4f85e36c60069551b
+      internalID: -1410413829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439987d6279893408f276ae10bbe594
+      internalID: -112882836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310b537b6045ef4184ca1d71bd4535d
+      internalID: -1771350508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_90
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d916f821a2aacba48b81d54075ff3469
+      internalID: -158869996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41644154ba69f90478d28f71cb8837e4
+      internalID: 1118478376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_92
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9075050993121042b86946bce102465
+      internalID: 1495817312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c94a5f45063b340a7c03c7d92bc5dc
+      internalID: 1379467386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc18f111afc2c346b40d03c3a7e8354
+      internalID: -1872464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_95
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c813ffea3e3ff5409c641f7bce94609
+      internalID: -2024144772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_96
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb890542fabe0c48bd8fd7c863f6d9e
+      internalID: -1452052334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833be9ffdfbad4468396a2eea496eab
+      internalID: -1186903011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd980448fb29cc4b98730156e3d6958
+      internalID: -1299307595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_99
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 271.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c905bbef5b7e3447b7d8596c18c65d1
+      internalID: 299816397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf94a27b3e63d47a8bc25961237321
+      internalID: 1356716372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea962d3ace66441a5be2f9d72b2a24
+      internalID: 740551911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8fe6f3d34bfd499f7de7670e5f4aa
+      internalID: 1917951466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e107213724bc384283565031750bb73
+      internalID: 584861818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc11aaebe0b5a499bacb46c1b643a0
+      internalID: 97326051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dbafb27ef332b408108a2f969ad95e
+      internalID: 1086323177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3d38a02ba6c244a054ee72f576745
+      internalID: 531742807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50f0502cb5df348bcb05f2046ca2b2
+      internalID: -1781473657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509cdcc407c073c4180d0e6483c2d9dd
+      internalID: 454892788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff394ff0cae79d3409d7d59f060cf728
+      internalID: 213262215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_110
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bcc709b36b2764ab75ed2f4379fff6
+      internalID: 571583720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e015e5bb4c0e0e47bf168825ed299f0
+      internalID: 1807590936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_112
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6f47452324e4e40802423c8d5feb74
+      internalID: -2140005130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c680d2c035f0b06438e6e7b6c3e232b5
+      internalID: 2113252572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_114
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d67b9ed8b6a084d8588bc71f21c6b9
+      internalID: -162682943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_115
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b74634000f11141bff91ad8795becd
+      internalID: -1049387932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae86594dcfb5d64b829b107e161e703
+      internalID: -923345258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197238529b173684aad296d1863adad4
+      internalID: -1644374578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_118
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68476562dfcb574fbd82cc70c3863dc
+      internalID: -685274150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 247.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c3316dfaf53549b8445c86ecd1287
+      internalID: 565466028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ae5e3548be6344b7ad0d014ed6bee
+      internalID: -438900379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a086b7e9acbbb449b321c870ff1519
+      internalID: -1318046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b57d8eec0d4e1a40b95d369e596e47d
+      internalID: -1452408006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9a173977ff3d4ea7ab5d5fc611489
+      internalID: 217600016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a26ec5403f164793569550fa3a7d3
+      internalID: 1527898562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996e4a8267af9a4b982610dfb54579a
+      internalID: 549676259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82adab1e539524b904e95b1b5ce052
+      internalID: -509995836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5c4c0e71f4474ba714a113db3b8af
+      internalID: -1555624447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_128
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7f9a63b8a5364baccbcbc529523d2
+      internalID: -404014543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59fc3731e723e4bbbfc259532b9526
+      internalID: -1395505321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_130
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ddacd496dff144a581d80c42a81f5
+      internalID: 852337799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24a09b30e231e4694c75d5d6cf4d41
+      internalID: 1332419409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83cc37c3cc9fd4ea047c97655002f1
+      internalID: 745178079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dafdc5757cc8c4390470ecf4161733
+      internalID: -396727519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_134
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3c479286592d4eb038cc792dd0869
+      internalID: 1952160153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_135
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df609b8831e3284085dd3738c1c86d2
+      internalID: -560019675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a70683d695de74a865ec32bbe9ebe2
+      internalID: -6089760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_137
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08bbce4b4ce907438a4aba74f122ef0
+      internalID: 1401488614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_138
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612721868f2770545adafebfcc7bdde2
+      internalID: -144106557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_139
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d41401168f494ea072b6706870bbc
+      internalID: 902179076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3690e08e9af4114085a967528d6c4f9
+      internalID: -117811785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f915857fcbd3747ae7b038e1c3c013
+      internalID: 1183956487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df063b68f27ee34dac584048ac7f062
+      internalID: 590972239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_143
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542199ca36f5ec4eaf56524f2914fbd
+      internalID: -135627701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_144
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc9c3ad74aee047a50c4f5048fc91c
+      internalID: -1367700886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c81fc44656de8479c2a6eee31ef5c1
+      internalID: -978472895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_146
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88efcf86b91864592a5c889a564e4b
+      internalID: -303529321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff743d39f4d4f84098101bc73d353aa
+      internalID: -206354245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_148
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a46ef34eee7d488086a6609c4b8eb
+      internalID: 1927929467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0238a141c33e4f9a003438cbe0bbd
+      internalID: 1728188295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_150
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6f87b89d8c6e4c909014f9b1ce888
+      internalID: -717674611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1ea24bf4b8684ca83f4da6d7897c7
+      internalID: 1241148557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_152
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf56b2128a141428f21dc226db916f
+      internalID: -247897071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88ceedd425bd54c85cc48a6fffe2ad
+      internalID: 701838263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442e07c42b073147bbb1dda6bf87c45
+      internalID: 808758131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_155
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac02d624f65d37a4db0018e27f16ecdd
+      internalID: -2095922925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a8653dc1299a449c188f948bd1901
+      internalID: 818365706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c83eacd96dbd4dbbf5d7d8dd8617c
+      internalID: -673506111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_158
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299d465bc9711e449331e00e120f883
+      internalID: 235167649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_159
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 199.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5cf9a9d60d8d469f1a2fe9e59e4fc
+      internalID: 2116043128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408fda9506b003b449e16264b280c96d
+      internalID: 1633805243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df957ea89a6aae498f3ee92dd78e837
+      internalID: -378283216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_162
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288edefaa60aa14c95644974340ea95
+      internalID: 1231059469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8517b3ed13c38642909086c411427c5
+      internalID: -2000777959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_164
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a65079fc0f5a4299846a25d2b2990
+      internalID: -912139335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859517480733d6f4ca3071a46a7e74d2
+      internalID: 1033980754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_166
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48209eeee51f1ba41b1fbd5877e0d50d
+      internalID: -565044544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047f3a66e043cd429fa8a60425b2684
+      internalID: -1867362113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_168
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb15351e8ee924caabb4873cc96b64
+      internalID: 1434771387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94a739d9aa54847b16185eb21a94bf
+      internalID: 64274770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_170
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aad69690b87af149a76ea54ddc8e006
+      internalID: 1417862503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a948cca3a5f2d64d9d29fa9e117eb64
+      internalID: -1565485676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_172
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c0df2be6343a4fa8595767c65f4a0
+      internalID: -743620865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba1a368f34e2e43bec2a8b1d3e8b9c
+      internalID: 429983611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_174
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b78c824b054704087c9c1e12ddcb96
+      internalID: -1544383297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_175
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672802797e06c8428e263aed4cd3dbc
+      internalID: 835824810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_176
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8480816c24488749a01553f7ad0b96b
+      internalID: 361523823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_177
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245e5cd688958049add0e4bee1c2d02
+      internalID: 569298208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_178
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1d8609abf6cc4e87a6a7825ba1ece
+      internalID: 1632334150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_179
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 175.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb114577287c2439f6771fc331c5c6
+      internalID: 781058396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983de9ff71ad23b48b9f576f4765cf46
+      internalID: 1751423278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be674567ce83944b065eee75dc9596
+      internalID: 601983479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_182
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd53189c09d0d4694ce0c1a4cf9be7
+      internalID: 1160309723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47e4325c3af6a4eb8e7a4a1ee6fee9
+      internalID: -29278174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_184
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252507ed31e90648a2260217f269233
+      internalID: -1637980948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635070bf92543dd4dbf8d120b228f3c2
+      internalID: -388246859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_186
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5a5ba3616c0749ad7141bf49390ee
+      internalID: 674631770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bff4d0a838aa34d98010d74d9d7b9b
+      internalID: -325651169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_188
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7a8d16683c0a45b78b506fe930e1b
+      internalID: -1411069869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683dc89c5afad314ba30554dbe1a54e3
+      internalID: -576655457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_190
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de41bf879ed064fb7675052ea2a5d1
+      internalID: 784194603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_191
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022175c50207cb4c93ce2a0efdec0c7
+      internalID: -2140493421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_192
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef9eade1fec8b348a5ecf041a27c494
+      internalID: -235881607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_193
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe3ad09a8de764cac22faf70e8cac1
+      internalID: 542289285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_194
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75f354813d9d448b4eda4fd75005ac
+      internalID: -546469895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_195
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab4595ca67ae142b4b34d963efe907
+      internalID: 90633139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_196
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3d5d8437c5cc4586cf76e4af45455
+      internalID: -878724972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_197
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51db24a9e0d7134f9b8c3dee7aebf0a
+      internalID: 547455198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_198
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf8ec78dcade6a44b872ef34b8ae89c
+      internalID: 500255227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_199
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 151.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b826ae7be5b8edf48a6a0aad407cfa4d
+      internalID: -599715915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ecb8857973c834884d4e3da4bdb7e0
+      internalID: -872714980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f43c1b75d39e8f46aaa17fa9e5359d2
+      internalID: -1399290506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e067b527ace9438935e6f76bcf3ac
+      internalID: 1689381997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9979ecfbd912640ac9fc437b8215ee
+      internalID: 1842410418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_204
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d646046124f1c94d97d67cd2fcedb20
+      internalID: -743279388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_205
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b017f29043c1e149b67b5ffb2335ce3
+      internalID: 1288618534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_206
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159bedecab870d54d96703e713e2c10f
+      internalID: -1899310433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_207
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637f184f3437564890e0f9d904dbdcb
+      internalID: -1413598519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_208
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1dad2bc228964db47ded2cbaec5ca
+      internalID: -1867374763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_209
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff6f8c98d4a2245b0e9606e6de4f5e
+      internalID: -237523192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_210
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67661221b917eb64aa90493accecfb4d
+      internalID: -270160957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_211
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8dc367801c434dae7a883727581d0
+      internalID: 837964315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682bb8c5f380f143ae463d57b399014
+      internalID: -1745458593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf58912d37ace74e8ffb8e7ffafbbba
+      internalID: 894370391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_214
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ece7dba077bfc4d8cc26f5b4c9f1ad
+      internalID: 1060621683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_215
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f679d39ef1c1419928d397919e2fe
+      internalID: 298316377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_216
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b52e86bced327408f3bc698428b94c
+      internalID: -1725768513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_217
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab809949f805f419588188af99570a
+      internalID: 847762966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_218
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac13d84b2eab9438a529fd23cc0f89
+      internalID: 284567664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_219
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6545a635cf20049448a58dfcd72a5d09
+      internalID: -450964261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ce5dcb4374de4f90b556ad0d8fef9
+      internalID: -155751210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb4fc9548f5f64ea74ae71321205c4
+      internalID: 1559267369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_222
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddfb78557dab2347bd34b5a1ff63d62
+      internalID: -1097316746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdce7eaf6b37dc4d86e0c42ffecb928
+      internalID: -1670365841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_224
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c16f711d344844a9754ba79b40738f
+      internalID: 1489756527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ba3ff8392c844182eee1d74fd3bf1
+      internalID: 1522808264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_226
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc4fa5aeb90b444bc676546548c3bc
+      internalID: 1922610808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60ff8a00e0e8c4ea8f53dbb0d61936
+      internalID: -641713380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_228
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f87d6446104d5439ec70e4136e3213
+      internalID: -471256102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_229
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe698864b7bf7e4abbf986a5c572856
+      internalID: 1234956276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_230
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcd23a03b404e741be82886d788d6aa
+      internalID: 1657548096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_231
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8bedef1658a64a85dd7b01e965bbd
+      internalID: -372174851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_232
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b80bd8d08f1e045b80962b2047c181
+      internalID: -602857090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_233
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e480733814474f937f1d5ccc8eb49
+      internalID: 1678549602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_234
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88a6e333b63494192d4410d84496e0
+      internalID: 370970207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_235
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5669ee688301c429bc5425a724ee05
+      internalID: -1190536620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_236
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f9902088cfff459ebc330d0116b6b
+      internalID: 864403783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b205b15b4f029d4f91d8021326317ea
+      internalID: -133949206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_238
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408ca4ca1affc74ebae3c5da7a8cf58
+      internalID: 1179390046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_239
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 103.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e459b0969e554f9f1ec39aa66e846
+      internalID: -892792758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f269a01545e7b4087aedf9329e7aa6
+      internalID: 1367388070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609263308f134e64c9c4f66fe6b37b97
+      internalID: 1477034836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_242
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025e959a01f60b4db84cebb31fd03de
+      internalID: -1564705229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_243
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601e526941f9784c93a148de21bbf6f
+      internalID: 1775063073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_244
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5dc85084a89d445948d1d6ab171a94
+      internalID: 417029728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_245
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb535794c54214a803fa619548fa95
+      internalID: 1123194437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_246
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4be27c7e39a5842ab0d12197e0fee7
+      internalID: -338969011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_247
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b4a020a496134bb1b62b6cf39112e
+      internalID: 758902887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_248
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a3447d65066a4da059d9940b9bec0
+      internalID: 644006269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_249
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da41d8469c1fa4b803d6970ed2dbbd
+      internalID: -429943328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_250
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5debbf9fb66f4e9238ff545a4cf39
+      internalID: -1485869949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_251
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85bd5b10228a645a46aac57eeec6e4
+      internalID: -1379746548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_252
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2168a44186721488a015c1352e279b
+      internalID: -1182234344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_253
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c269fc163b4c5459696c446c19b1df
+      internalID: -630253506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_254
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969713c10ae3b14db48eec4bd8d0cc8
+      internalID: -1021508398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_255
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6fbb4e6b448c9438ad32e466fbfa65
+      internalID: -389996242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_256
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489324abe8751143b30b0b013e44a77
+      internalID: -1255783260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_257
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3e2d3946b8484c99f599787674e61
+      internalID: -223211115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_258
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011dbcc2ddde1b44d91e8df8f429d83f
+      internalID: 696267371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_259
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 79.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59cbb3bda7c331479e3a55557e40d0b
+      internalID: -1279657689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_260
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3218dc8a42950514aab40c93893a3b56
+      internalID: 1039844945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_261
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb1d6f16f075d458308070df75ccd8
+      internalID: 1042972168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_262
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173cd61e7123bbc488bf198a8e10e579
+      internalID: -1917445046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_263
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6da36f342d6548af2c672ff18c145
+      internalID: 785886936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_264
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e48c15d34ac6d41b6eeac103996142
+      internalID: -538603520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_265
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa21412da591046a36ba7d9dc6aab7
+      internalID: -1759132287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_266
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378cd8e28f7697408fcf0370bf6348c
+      internalID: 1016921690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_267
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8b00f86590c34394ab14891704f3e
+      internalID: 1022678192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_268
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a153a3b0c45fd9d4d86d96b5723d4c11
+      internalID: -623915480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_269
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde349a31fc0d94aae26700ef3e92ae
+      internalID: 1337443128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_270
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b48e4767deb74f9515b1b67a891a6
+      internalID: 153519131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_271
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516508bef06abf4faae1e98061177c3
+      internalID: -574550094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_272
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb2e1df27f7ca44addd0269278a672
+      internalID: 1377000030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_273
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed7ee0c3f04ac48a925c4039120625
+      internalID: 1375103940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_274
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82d5a141824d64683f3083053c38f9
+      internalID: -857376875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_275
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad099c985f5ae047a2743403fd6922d
+      internalID: -669281517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_276
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278e2e790a9b014693641370c6ba36e
+      internalID: -472251048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_277
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f5aa69baf05b40a9b7080beeeb4a6
+      internalID: 1025829388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_278
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a0e72ba2da0c48b9bad2b033cd855
+      internalID: 1126974581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_279
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 55.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799b7fea9377a040a5dec1c12ae378d
+      internalID: 1229618490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_280
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93313c8227792dd49897a859b25a7699
+      internalID: 1555893137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_281
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef70385c15df7a4e80d7a40b5a83777
+      internalID: -1493700532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_282
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784570f3a5909cd479e29e0f9a84c1c2
+      internalID: 159860731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_283
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff75ca354872a54b8b09c30856c215b
+      internalID: 200549815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_284
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bca86bc43bd1b459bcc5a6c5199e47
+      internalID: 171843964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9712fe2c0c0f6c4ba7582bf968fe91c
+      internalID: 960958213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_286
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381945e27f15ff42aa4215af54d497c
+      internalID: 661013933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_287
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf0644f7cba88046a455c98f004876c
+      internalID: 1395405515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_288
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01ac59f722d1f4d9908ac097813cb4
+      internalID: 586385856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_289
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e049cdadb0bb774eb45ebc6b876c2b4
+      internalID: -2130175766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_290
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55849bf71b1dea14c95dd2114acd269b
+      internalID: 345533416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_291
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78734901e1093f4ab321debe246719c
+      internalID: -333781255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_292
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a75222ecda8547bb77194339aedc4
+      internalID: 707135494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_293
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5600eb3316843a24980a70a9e59dbd74
+      internalID: 91947883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_294
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad09bad95de7443a1957d73fd400f6
+      internalID: -894864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_295
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2096567d3e1b9e44098ca079b38e6d3f
+      internalID: 1040532362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_296
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5354fbddd11e44ac3adb6a630e4e1
+      internalID: 1254783368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_297
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41d62b7cb929344b682d84ac0ec6bb
+      internalID: -647888032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_298
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d1a0e1743db04491224f17c32059d
+      internalID: -143584943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_299
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 31.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec971156fd250dd4fbc68cb9d287efd2
+      internalID: -1769375857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_300
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae337462f7c98a24b8f156dc8fe83e54
+      internalID: 1507115186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_301
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c374ad1cc6eab4e93399d85c1fc065
+      internalID: -1995179180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_302
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0583ff249fc9074d9701a5a35937789
+      internalID: 109050761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_303
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037fe1dd0f475c4c98748f16cf0bf68
+      internalID: 346796919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_304
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c223658a4ef6f4cb550a220b7873ab
+      internalID: -1432986678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_305
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdc6f6d634aa440be0bb1f8f75016a
+      internalID: 357156873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_306
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3ac9e7e995cfa47bc0bb5f7c475a36
+      internalID: 456150243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_307
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b8b4bf1fab194d870c6dd331ce423
+      internalID: -395101480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_308
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30da6fea3086be04591e656f604325fc
+      internalID: 1035396427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_309
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a0e2b844b8c2c40860a6aa96766282
+      internalID: -594982719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_310
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23453d8b37638d4a894cfb3f150f3e8
+      internalID: 17988265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_311
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f95614b328b624f83747ae14a99310
+      internalID: -1416849247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_312
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3896dd9bdedff4daaaaa619d812c20
+      internalID: 1629460444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_313
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efbbdb65280fb74089350002adab4a7
+      internalID: 1241628759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_314
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace4c47e740ee04caaa6a6f54bb6a25
+      internalID: 874593918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_315
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c65c0c1cde5b544ad80fcca1e220c2
+      internalID: -2018470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_316
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77115d297a3b842409f8f4e1f3108cfe
+      internalID: -1728470397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_317
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6f547578b3664f86f8d1d6974d2f3
+      internalID: -1425221245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_318
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350fde651cd94d4686a83bac35656ee
+      internalID: -750625150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemon Item Icons2_319
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 7.5
+        width: 24.4
+        height: 24.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4247921e012646bf914feda9e1ec7
+      internalID: -1335894124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pokemon Item Icons2_35: 809064503
+      Pokemon Item Icons2_4: -412426988
+      Pokemon Item Icons2_170: 1417862503
+      Pokemon Item Icons2_305: 357156873
+      Pokemon Item Icons2_263: 785886936
+      Pokemon Item Icons2_58: -1700481272
+      Pokemon Item Icons2_131: 1332419409
+      Pokemon Item Icons2_145: -978472895
+      Pokemon Item Icons2_216: -1725768513
+      Pokemon Item Icons2_33: 172819158
+      Pokemon Item Icons2_178: 1632334150
+      Pokemon Item Icons2_256: -1255783260
+      Pokemon Item Icons2_162: 1231059469
+      Pokemon Item Icons2_37: -571391420
+      Pokemon Item Icons2_279: 1229618490
+      Pokemon Item Icons2_13: -1610627907
+      Pokemon Item Icons2_28: 1471541573
+      Pokemon Item Icons2_248: 644006269
+      Pokemon Item Icons2_127: -1555624447
+      Pokemon Item Icons2_306: 456150243
+      Pokemon Item Icons2_317: -1425221245
+      Pokemon Item Icons2_236: 864403783
+      Pokemon Item Icons2_104: 97326051
+      Pokemon Item Icons2_214: 1060621683
+      Pokemon Item Icons2_123: 217600016
+      Pokemon Item Icons2_50: 751692293
+      Pokemon Item Icons2_59: -420588452
+      Pokemon Item Icons2_172: -743620865
+      Pokemon Item Icons2_49: 447087115
+      Pokemon Item Icons2_75: 410969074
+      Pokemon Item Icons2_199: -599715915
+      Pokemon Item Icons2_39: -409489895
+      Pokemon Item Icons2_204: -743279388
+      Pokemon Item Icons2_119: 565466028
+      Pokemon Item Icons2_126: -509995836
+      Pokemon Item Icons2_287: 1395405515
+      Pokemon Item Icons2_222: -1097316746
+      Pokemon Item Icons2_271: -574550094
+      Pokemon Item Icons2_47: -31301721
+      Pokemon Item Icons2_206: -1899310433
+      Pokemon Item Icons2_79: 2143371186
+      Pokemon Item Icons2_34: -311102947
+      Pokemon Item Icons2_213: 894370391
+      Pokemon Item Icons2_297: -647888032
+      Pokemon Item Icons2_48: 800237205
+      Pokemon Item Icons2_176: 361523823
+      Pokemon Item Icons2_38: 1056524715
+      Pokemon Item Icons2_308: 1035396427
+      Pokemon Item Icons2_283: 200549815
+      Pokemon Item Icons2_32: 4630970
+      Pokemon Item Icons2_189: -576655457
+      Pokemon Item Icons2_27: -1096727488
+      Pokemon Item Icons2_51: -169337199
+      Pokemon Item Icons2_299: -1769375857
+      Pokemon Item Icons2_269: 1337443128
+      Pokemon Item Icons2_107: -1781473657
+      Pokemon Item Icons2_95: -2024144772
+      Pokemon Item Icons2_153: 701838263
+      Pokemon Item Icons2_177: 569298208
+      Pokemon Item Icons2_246: -338969011
+      Pokemon Item Icons2_319: -1335894124
+      Pokemon Item Icons2_143: -135627701
+      Pokemon Item Icons2_191: -2140493421
+      Pokemon Item Icons2_29: 1771082165
+      Pokemon Item Icons2_210: -270160957
+      Pokemon Item Icons2_295: 1040532362
+      Pokemon Item Icons2_2: -2142430896
+      Pokemon Item Icons2_242: -1564705229
+      Pokemon Item Icons2_249: -429943328
+      Pokemon Item Icons2_243: 1775063073
+      Pokemon Item Icons2_80: 1742733565
+      Pokemon Item Icons2_197: 547455198
+      Pokemon Item Icons2_232: -602857090
+      Pokemon Item Icons2_78: 1431962969
+      Pokemon Item Icons2_272: 1377000030
+      Pokemon Item Icons2_310: 17988265
+      Pokemon Item Icons2_96: -1452052334
+      Pokemon Item Icons2_241: 1477034836
+      Pokemon Item Icons2_46: 1159187226
+      Pokemon Item Icons2_193: 542289285
+      Pokemon Item Icons2_82: 985238270
+      Pokemon Item Icons2_294: -894864351
+      Pokemon Item Icons2_311: -1416849247
+      Pokemon Item Icons2_307: -395101480
+      Pokemon Item Icons2_102: 1917951466
+      Pokemon Item Icons2_138: -144106557
+      Pokemon Item Icons2_149: 1728188295
+      Pokemon Item Icons2_260: 1039844945
+      Pokemon Item Icons2_262: -1917445046
+      Pokemon Item Icons2_141: 1183956487
+      Pokemon Item Icons2_298: -143584943
+      Pokemon Item Icons2_198: 500255227
+      Pokemon Item Icons2_203: 1842410418
+      Pokemon Item Icons2_140: -117811785
+      Pokemon Item Icons2_245: 1123194437
+      Pokemon Item Icons2_208: -1867374763
+      Pokemon Item Icons2_74: 102536012
+      Pokemon Item Icons2_230: 1657548096
+      Pokemon Item Icons2_211: 837964315
+      Pokemon Item Icons2_316: -1728470397
+      Pokemon Item Icons2_215: 298316377
+      Pokemon Item Icons2_87: -1410413829
+      Pokemon Item Icons2_192: -235881607
+      Pokemon Item Icons2_318: -750625150
+      Pokemon Item Icons2_21: 1938576601
+      Pokemon Item Icons2_106: 531742807
+      Pokemon Item Icons2_128: -404014543
+      Pokemon Item Icons2_180: 1751423278
+      Pokemon Item Icons2_68: -864126953
+      Pokemon Item Icons2_41: 423907847
+      Pokemon Item Icons2_274: -857376875
+      Pokemon Item Icons2_261: 1042972168
+      Pokemon Item Icons2_67: 5842971
+      Pokemon Item Icons2_292: 707135494
+      Pokemon Item Icons2_84: -752706374
+      Pokemon Item Icons2_22: -2111702066
+      Pokemon Item Icons2_253: -630253506
+      Pokemon Item Icons2_69: -460946176
+      Pokemon Item Icons2_113: 2113252572
+      Pokemon Item Icons2_163: -2000777959
+      Pokemon Item Icons2_132: 745178079
+      Pokemon Item Icons2_92: 1495817312
+      Pokemon Item Icons2_17: 2060483186
+      Pokemon Item Icons2_91: 1118478376
+      Pokemon Item Icons2_157: -673506111
+      Pokemon Item Icons2_259: -1279657689
+      Pokemon Item Icons2_54: 2098222902
+      Pokemon Item Icons2_160: 1633805243
+      Pokemon Item Icons2_202: 1689381997
+      Pokemon Item Icons2_238: 1179390046
+      Pokemon Item Icons2_158: 235167649
+      Pokemon Item Icons2_276: -472251048
+      Pokemon Item Icons2_26: -1084670542
+      Pokemon Item Icons2_234: 370970207
+      Pokemon Item Icons2_289: -2130175766
+      Pokemon Item Icons2_133: -396727519
+      Pokemon Item Icons2_43: -1817324664
+      Pokemon Item Icons2_53: 529112490
+      Pokemon Item Icons2_220: -155751210
+      Pokemon Item Icons2_302: 109050761
+      Pokemon Item Icons2_239: -892792758
+      Pokemon Item Icons2_1: -168782081
+      Pokemon Item Icons2_108: 454892788
+      Pokemon Item Icons2_150: -717674611
+      Pokemon Item Icons2_273: 1375103940
+      Pokemon Item Icons2_146: -303529321
+      Pokemon Item Icons2_267: 1022678192
+      Pokemon Item Icons2_151: 1241148557
+      Pokemon Item Icons2_12: 175024280
+      Pokemon Item Icons2_281: -1493700532
+      Pokemon Item Icons2_100: 1356716372
+      Pokemon Item Icons2_152: -247897071
+      Pokemon Item Icons2_184: -1637980948
+      Pokemon Item Icons2_81: -1070210069
+      Pokemon Item Icons2_23: 430699627
+      Pokemon Item Icons2_99: 299816397
+      Pokemon Item Icons2_76: -1181812997
+      Pokemon Item Icons2_265: -1759132287
+      Pokemon Item Icons2_201: -1399290506
+      Pokemon Item Icons2_86: 114742886
+      Pokemon Item Icons2_257: -223211115
+      Pokemon Item Icons2_65: 1066230308
+      Pokemon Item Icons2_40: -2122308754
+      Pokemon Item Icons2_135: -560019675
+      Pokemon Item Icons2_231: -372174851
+      Pokemon Item Icons2_77: 1635807950
+      Pokemon Item Icons2_124: 1527898562
+      Pokemon Item Icons2_121: -1318046756
+      Pokemon Item Icons2_209: -237523192
+      Pokemon Item Icons2_179: 781058396
+      Pokemon Item Icons2_224: 1489756527
+      Pokemon Item Icons2_196: -878724972
+      Pokemon Item Icons2_142: 590972239
+      Pokemon Item Icons2_66: -1897454910
+      Pokemon Item Icons2_228: -471256102
+      Pokemon Item Icons2_15: -32389700
+      Pokemon Item Icons2_219: -450964261
+      Pokemon Item Icons2_255: -389996242
+      Pokemon Item Icons2_312: 1629460444
+      Pokemon Item Icons2_73: 917817520
+      Pokemon Item Icons2_97: -1186903011
+      Pokemon Item Icons2_304: -1432986678
+      Pokemon Item Icons2_301: -1995179180
+      Pokemon Item Icons2_85: -1383612902
+      Pokemon Item Icons2_200: -872714980
+      Pokemon Item Icons2_116: -923345258
+      Pokemon Item Icons2_165: 1033980754
+      Pokemon Item Icons2_14: -172186631
+      Pokemon Item Icons2_109: 213262215
+      Pokemon Item Icons2_195: 90633139
+      Pokemon Item Icons2_226: 1922610808
+      Pokemon Item Icons2_166: -565044544
+      Pokemon Item Icons2_30: 183110118
+      Pokemon Item Icons2_8: -2126265664
+      Pokemon Item Icons2_284: 171843964
+      Pokemon Item Icons2_280: 1555893137
+      Pokemon Item Icons2_161: -378283216
+      Pokemon Item Icons2_45: -972708305
+      Pokemon Item Icons2_125: 549676259
+      Pokemon Item Icons2_240: 1367388070
+      Pokemon Item Icons2_147: -206354245
+      Pokemon Item Icons2_186: 674631770
+      Pokemon Item Icons2_112: -2140005130
+      Pokemon Item Icons2_90: -158869996
+      Pokemon Item Icons2_93: 1379467386
+      Pokemon Item Icons2_115: -1049387932
+      Pokemon Item Icons2_148: 1927929467
+      Pokemon Item Icons2_187: -325651169
+      Pokemon Item Icons2_171: -1565485676
+      Pokemon Item Icons2_254: -1021508398
+      Pokemon Item Icons2_94: -1872464242
+      Pokemon Item Icons2_9: -256231613
+      Pokemon Item Icons2_309: -594982719
+      Pokemon Item Icons2_64: 91656911
+      Pokemon Item Icons2_71: 711788939
+      Pokemon Item Icons2_42: -1028805688
+      Pokemon Item Icons2_159: 2116043128
+      Pokemon Item Icons2_167: -1867362113
+      Pokemon Item Icons2_296: 1254783368
+      Pokemon Item Icons2_185: -388246859
+      Pokemon Item Icons2_52: 890140101
+      Pokemon Item Icons2_182: 1160309723
+      Pokemon Item Icons2_247: 758902887
+      Pokemon Item Icons2_10: 1614899093
+      Pokemon Item Icons2_183: -29278174
+      Pokemon Item Icons2_156: 818365706
+      Pokemon Item Icons2_293: 91947883
+      Pokemon Item Icons2_120: -438900379
+      Pokemon Item Icons2_24: -1974035077
+      Pokemon Item Icons2_62: 1037582997
+      Pokemon Item Icons2_55: 516282007
+      Pokemon Item Icons2_111: 1807590936
+      Pokemon Item Icons2_250: -1485869949
+      Pokemon Item Icons2_174: -1544383297
+      Pokemon Item Icons2_18: -933216552
+      Pokemon Item Icons2_144: -1367700886
+      Pokemon Item Icons2_11: -1235618697
+      Pokemon Item Icons2_105: 1086323177
+      Pokemon Item Icons2_229: 1234956276
+      Pokemon Item Icons2_188: -1411069869
+      Pokemon Item Icons2_101: 740551911
+      Pokemon Item Icons2_205: 1288618534
+      Pokemon Item Icons2_130: 852337799
+      Pokemon Item Icons2_16: 934433483
+      Pokemon Item Icons2_136: -6089760
+      Pokemon Item Icons2_122: -1452408006
+      Pokemon Item Icons2_139: 902179076
+      Pokemon Item Icons2_225: 1522808264
+      Pokemon Item Icons2_56: 583865792
+      Pokemon Item Icons2_212: -1745458593
+      Pokemon Item Icons2_155: -2095922925
+      Pokemon Item Icons2_175: 835824810
+      Pokemon Item Icons2_83: -1991385369
+      Pokemon Item Icons2_134: 1952160153
+      Pokemon Item Icons2_169: 64274770
+      Pokemon Item Icons2_5: 744961266
+      Pokemon Item Icons2_258: 696267371
+      Pokemon Item Icons2_19: 493181977
+      Pokemon Item Icons2_98: -1299307595
+      Pokemon Item Icons2_268: -623915480
+      Pokemon Item Icons2_173: 429983611
+      Pokemon Item Icons2_266: 1016921690
+      Pokemon Item Icons2_237: -133949206
+      Pokemon Item Icons2_275: -669281517
+      Pokemon Item Icons2_63: 1367270216
+      Pokemon Item Icons2_218: 284567664
+      Pokemon Item Icons2_36: 664454400
+      Pokemon Item Icons2_235: -1190536620
+      Pokemon Item Icons2_252: -1182234344
+      Pokemon Item Icons2_31: -1590518504
+      Pokemon Item Icons2_103: 584861818
+      Pokemon Item Icons2_117: -1644374578
+      Pokemon Item Icons2_227: -641713380
+      Pokemon Item Icons2_118: -685274150
+      Pokemon Item Icons2_164: -912139335
+      Pokemon Item Icons2_217: 847762966
+      Pokemon Item Icons2_291: -333781255
+      Pokemon Item Icons2_264: -538603520
+      Pokemon Item Icons2_57: -1505659590
+      Pokemon Item Icons2_61: -281582856
+      Pokemon Item Icons2_3: -1939699163
+      Pokemon Item Icons2_194: -546469895
+      Pokemon Item Icons2_110: 571583720
+      Pokemon Item Icons2_72: -847811002
+      Pokemon Item Icons2_129: -1395505321
+      Pokemon Item Icons2_190: 784194603
+      Pokemon Item Icons2_7: -1423995312
+      Pokemon Item Icons2_207: -1413598519
+      Pokemon Item Icons2_278: 1126974581
+      Pokemon Item Icons2_244: 417029728
+      Pokemon Item Icons2_6: -484882403
+      Pokemon Item Icons2_154: 808758131
+      Pokemon Item Icons2_181: 601983479
+      Pokemon Item Icons2_251: -1379746548
+      Pokemon Item Icons2_290: 345533416
+      Pokemon Item Icons2_285: 960958213
+      Pokemon Item Icons2_313: 1241628759
+      Pokemon Item Icons2_300: 1507115186
+      Pokemon Item Icons2_315: -2018470137
+      Pokemon Item Icons2_314: 874593918
+      Pokemon Item Icons2_270: 153519131
+      Pokemon Item Icons2_25: 2062747193
+      Pokemon Item Icons2_286: 661013933
+      Pokemon Item Icons2_44: -1490985776
+      Pokemon Item Icons2_223: -1670365841
+      Pokemon Item Icons2_221: 1559267369
+      Pokemon Item Icons2_114: -162682943
+      Pokemon Item Icons2_233: 1678549602
+      Pokemon Item Icons2_20: 62490433
+      Pokemon Item Icons2_70: -1699250605
+      Pokemon Item Icons2_0: -1092764879
+      Pokemon Item Icons2_303: 346796919
+      Pokemon Item Icons2_60: 383071721
+      Pokemon Item Icons2_88: -112882836
+      Pokemon Item Icons2_137: 1401488614
+      Pokemon Item Icons2_168: 1434771387
+      Pokemon Item Icons2_282: 159860731
+      Pokemon Item Icons2_288: 586385856
+      Pokemon Item Icons2_277: 1025829388
+      Pokemon Item Icons2_89: -1771350508
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

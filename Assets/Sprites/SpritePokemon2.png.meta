@@ -1,0 +1,3504 @@
+fileFormatVersion: 2
+guid: bda0817ae18140443af77435c60e8cfe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePokemon2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea843b767cded641bafc53e818dc12e
+      internalID: -1034801668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09288c6e67792c4b90c964d96eeb2f6
+      internalID: -789750318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e6887d16d0d0468701da6dece2206
+      internalID: 26772855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc14150535d3089459a71eab91146d52
+      internalID: 843276888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817cbe53a1334343a9da1b80f58081d
+      internalID: 780258857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48179fe44b24a264aad0588d37e50003
+      internalID: 1566654417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475cbeda66d12449839c0cd8a88a250
+      internalID: -1362444565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb55797a9335ac43904dd888793e155
+      internalID: -922717111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609ebdad3ddd564cbaaa73ab15c30c1
+      internalID: 80388570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16db96b3832df84683eb1bd43c1f6bc
+      internalID: -249671146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f93d645c792d5479cad5d31a43b6c9
+      internalID: -52604546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9afe6f334d2c438fd82edc84ecfa1
+      internalID: -420468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d2963ce6926047a48f887f2434928
+      internalID: -1455964985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ceaa8098af856469ff7eecde92bb26
+      internalID: 1729145976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6bd3fba8f4b0408f9f8a99d03cc7d
+      internalID: 446483260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219738ccd92b0ef4d84231bc3fe9db7b
+      internalID: 2017782205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6dc1a7a4f512245a7e9fc6784a6882
+      internalID: -1387404567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb03debe036edbb4ba4baa9712125751
+      internalID: 1034727184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41030668869c68f42bd2de283d9074bd
+      internalID: 1784512165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec736f90e68dd643bb0966bf4558e0c
+      internalID: 746029653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a53156e5778749b76d54ccb4874a5
+      internalID: 1183045230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51c6d4bceca534c9613409db9f52fe
+      internalID: -835645736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d09b820cc347bc439aa20a50e12aae7
+      internalID: 1467032313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee321f8b8f7a6474c827322e09ee7d83
+      internalID: -1302232510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7810727bdfe9a4fad20fec02cdef4c
+      internalID: 540533175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6a9307d10a004e8753ebbec9f5053
+      internalID: -1402893626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_26
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869e16874aec2b428d70f8d3de477d1
+      internalID: -1414488298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a7c1e2b29987d4683bd11ac88a7793
+      internalID: -431802842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3365b406be2e041b2d5f3c32dd89eb
+      internalID: -1895645024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 448
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288eedfb5370934c9a2b01eb25b8638
+      internalID: 1143392969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f937fa9145e5114c8c2e9672b509f0e
+      internalID: -1609681919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 448
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2545097eac07b348836d58c94fcc255
+      internalID: 116041310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda21701facbc704996bf2e84f0426e0
+      internalID: -229891502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1694d876783b3d54ca45187f838ce9c2
+      internalID: 60268238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd89f9699b096145989f1cb33bff293
+      internalID: -1192655924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7671ed95076c48874fa4d683a4d48
+      internalID: 2113648426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb6f79eaffffa43b30d49d5c2631b5
+      internalID: -95884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 392
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf2af902c927f48b589ac122296a44
+      internalID: 1459396445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13759093ac075240a652b37d7a0db0d
+      internalID: -972517385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf2862df19151489bd67dd63dd6523
+      internalID: 67311686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 392
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd174fb9c36a4c4fa5dc53ad53aeb5d
+      internalID: 191836277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 392
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb51b7efbfa0064f87ed3769dd799c1
+      internalID: -1745213759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e71f265ebd9c74b8e4dd9f46219800
+      internalID: 832522160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_43
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64945bd3b6d4f14782ee25bb042f850
+      internalID: 1554214308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_44
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d65074ae6b5348bdd2a5ef054cc8c
+      internalID: 511626120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_45
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e07e564af3218448173312907ea6c5
+      internalID: 2010462453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_46
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997cbc4515d9e74b85c460db44f31bd
+      internalID: 737713491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 392
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd80c39796aa04ebbbe15634fc58d0
+      internalID: -1097788588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7964f8f4d4dcf4a80dbd9315bb4ab0
+      internalID: 309657562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990857eb2dcd0d041a09b92f4d9a404b
+      internalID: -423933738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e29a280dee5eb4eaf1540865e7be86
+      internalID: 646513467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbbcb8138ee9d4c8e207a0abc139cb
+      internalID: 704577117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac1f09af146b247a692ecf01d27928
+      internalID: 79411697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_53
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809140e5cb6ffa4ab55baf1f34de9b2
+      internalID: -1406966986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf11fbf14ba237408361ef04b9e9554
+      internalID: -1546773919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_55
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e77b0796c7b3f043ae3d5b1bb803e86
+      internalID: -420051417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb63f4c5c213df4995b953b7a2f004a
+      internalID: 80224562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ebf606af117b4fa8a5725613972eb
+      internalID: -2057678838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae14f512fd2bad9489bf680c8e477eaa
+      internalID: -533372571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80b09bd2e13ab4682d86517faecacc
+      internalID: -49120285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_60
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12802d2843156a4aa58df29786c2d78
+      internalID: -999997972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_61
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d4b94d45a08b47965ed8ecb32271d
+      internalID: 1369404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d921d06aa40d1b4c986a35965cb0aa6
+      internalID: -1724016940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_63
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 336
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc50d47edfba543b4aaf3f136dced2
+      internalID: -294426565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5108e5c4b179b664f80c75a7c59e8023
+      internalID: 174272245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2041cedb144ac1429b1d6b84862a34f
+      internalID: 64913295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924ad65be418d9468682c2858797d5b
+      internalID: 1537371425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b3f68fb1d1fb4287dcd43e969349f
+      internalID: -1658079221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90efb0bf6259c344f906bbacb2adb735
+      internalID: 598888355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31dc251cd14fb94180d3266b9483eb4
+      internalID: 1911890928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f6b6c024f7584084482d87dcce7c0
+      internalID: 1774957713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_71
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb982e96195948478e3db6adc08d056
+      internalID: -2124762781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19a676f782a234381ffd1dca3fe1fd
+      internalID: -1317049792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_73
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26ad2398f125b449bb6b8cc56ca696
+      internalID: -967006636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7277c2d230a343a5712f72c25661d
+      internalID: 847882362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_75
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313ce3d613915642a58db330cfe415c
+      internalID: -1107520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9dc2c5f7205ca439b67a8693a9b715
+      internalID: 1852917686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_77
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 280
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa1f87d19521c4880a529beba0bb75
+      internalID: 363973049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_78
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881edca0565dea4db1700b7560eaeaa
+      internalID: 469132040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9ba022f99b174baa261f5305c12d0
+      internalID: -673855747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceca895aeb20a34d8fc1d5690ec2b55
+      internalID: 1264312546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa76581bd992a4ba120c34558b019e
+      internalID: -1144166904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a735cf48a3249224282c27e6deee6140
+      internalID: 1921530895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45ae07d0ec48848812c3f1cd919970
+      internalID: -605526442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d05fd6816a2a44a033ec5f8335abe
+      internalID: 1451775594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf96c619d9bd74689e7b12a42123ed
+      internalID: 338173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51782ff6435d284a9e76414cacd15a8
+      internalID: 498412030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39f7b53fca4a2b4497b42a47ac596da
+      internalID: 1128896910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780e9733d3f2114c9218b00b5214666
+      internalID: 91117533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93005893ccd68a94683ac7a1431fdcc6
+      internalID: 979867331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_90
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853c18aa68634a48b5eae9fc67857cf
+      internalID: -136166146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_91
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff101f317b704dc4296a905a76aabd19
+      internalID: -1581934519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814d3f2b0581664491c44666be44300
+      internalID: 1040041124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_93
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c645ef4394468724dae2071bca188966
+      internalID: 1245376832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_94
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca1b04d08040547bef7a081deb4b9e
+      internalID: 956065772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_95
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 224
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a998ec8a0c684b840ea0d8731bcf0
+      internalID: -915121063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8d7c9b2044424dbdab3e81e3f9c3f
+      internalID: -632582903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_97
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a5f02329c9f32478294d03c727d3d7
+      internalID: 545161704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692e2d50b1a56b469d9166e985f9174
+      internalID: -1627217656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9858fe9b4e38a439e6ecbf6ea63161
+      internalID: 1814646658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc14cb38c73754ca7eeaf17e7bd28e
+      internalID: 2139313769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_101
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7aad4de2deaa4e9ce720232b511cf
+      internalID: -1907454365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ee86c8ba22dc4b84c86d16b9fa113
+      internalID: 1795804653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642774a9fd123a543a2df9520f73581f
+      internalID: 167323094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f66525e059664388e5a70406a5182
+      internalID: 1210630055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_105
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf7ebc3b72408348ae56f2b2b52d954
+      internalID: -286456947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e849fbfbe41074429a2d314778b20c7
+      internalID: 1723569243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_107
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e09f0c0d5c0b4c9630c9fce1463ee
+      internalID: -142856860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314b2ccfceb0a04cb9704173969757e
+      internalID: -2003190995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_109
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b49bff1ff72440a5d498c39366812
+      internalID: 1903157997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_110
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8e52ed1b22d64db78bc84e04a1e8d
+      internalID: 2103424090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_111
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 168
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a74a7d3378e6489135c733ce7f341
+      internalID: -248390096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa43f3e574341b42af5f2351b26e45c
+      internalID: 1836035614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd6804d8553544e8ff10318c372167
+      internalID: -1507556388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea9be87d2f6a9040984d3b54260330c
+      internalID: -828356267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500701151d34dc44fb11641676ebacd6
+      internalID: -1339094204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ea3fe0df5d5c4b8c70c29a501c0d3
+      internalID: -1878481208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_117
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccae0a0008a1a844c969847727ca57cd
+      internalID: 576688002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be63d9bc22b722469ccf66fbfb8203d
+      internalID: -1225338190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_119
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c8c471b783b84eaad24602458a6a2
+      internalID: -1236697169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_120
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4d7c644c1a78c4f9d14a25c903a3c7
+      internalID: 143765133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_121
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673539af7eb0ca488f82f97b78989aa
+      internalID: 1302106560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_122
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a25117382bc214bace63637a0236bc
+      internalID: 1042055018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_123
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42515c4d510ec047b6266e143f8e97b
+      internalID: 1297475212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a047c7150d189444bc028b9debad15c
+      internalID: -1771604147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_125
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad5a263249bd84e81126065dbe8f57
+      internalID: -867528375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_126
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2faac265fdcc4cb07627dab0ec832
+      internalID: 1707964733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_127
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 112
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784fc5953ca61a49bb9cba4c10dab1b
+      internalID: 1433390430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a59873040a8741a5364cf7853fc1a
+      internalID: -2051923915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_129
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175eb50455234c04f8a10d9e14b55d23
+      internalID: 307141338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_130
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8053cd8c83c2140a6a193b531f91fd
+      internalID: 353790228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f71562e647d5f44b3d76880e1d33f9
+      internalID: -204862852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0617cc6abe4ca44b8069096ba7a57f
+      internalID: 371357820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90c5227e8a4346419c415b15da44de0
+      internalID: -2022752966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc3e1b582b039449e5bc079626661f
+      internalID: -499157008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_135
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bfccebd63b8a0408f142c4b9292e26
+      internalID: -1911274282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7d5174020f6a4988b080f1482e9d8
+      internalID: 1998533183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450db667a71625544a427773811a2a7b
+      internalID: -1985519230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_138
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e46ddf8ca5ab469f21ef6aa8f4e42
+      internalID: 971138536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_139
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a018fad4e0ed982429bdcb26fb297518
+      internalID: -1743341943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2298b5e3f78a443885a2011c2630de
+      internalID: 1883210077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_141
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d44f161492b0f4b85b1854ec831b81
+      internalID: -1600736459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_142
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da1c87ef01b974d99d01bc1820800a
+      internalID: 1994598482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_143
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 56
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e9dd38038d1dc40890d26cde3b7b00
+      internalID: 577238962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45dc5bd4cab73f468015f08eaa166fb
+      internalID: -236534138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_145
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883f5609a8c024d4b92ff827c8ea7f1b
+      internalID: -2011810079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0499bbb266b9149a37847f3b9fa41f
+      internalID: -1856624799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2621aa1d86b5ba46b9adb6e2513418f
+      internalID: 1211723982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73863a27ac7302847abcb3dac6ad278d
+      internalID: 117141198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9206637cd1eef4a94157a2bae4588a
+      internalID: 1336435009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7b0b6fa5d16e64aa56c68e17c17b00
+      internalID: 2048675215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePokemon2_151
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56.3125
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b178dbe833c894a4085d186083f5947d
+      internalID: 26779508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritePokemon2_27: -431802842
+      SpritePokemon2_26: -1414488298
+      SpritePokemon2_53: -1406966986
+      SpritePokemon2_77: 363973049
+      SpritePokemon2_58: -533372571
+      SpritePokemon2_20: 1183045230
+      SpritePokemon2_40: 191836277
+      SpritePokemon2_89: 979867331
+      SpritePokemon2_22: 1467032313
+      SpritePokemon2_91: -1581934519
+      SpritePokemon2_3: 843276888
+      SpritePokemon2_109: 1903157997
+      SpritePokemon2_21: -835645736
+      SpritePokemon2_2: 26772855
+      SpritePokemon2_88: 91117533
+      SpritePokemon2_114: -828356267
+      SpritePokemon2_69: 1911890928
+      SpritePokemon2_131: -204862852
+      SpritePokemon2_143: 577238962
+      SpritePokemon2_47: -1097788588
+      SpritePokemon2_106: 1723569243
+      SpritePokemon2_75: -1107520252
+      SpritePokemon2_4: 780258857
+      SpritePokemon2_60: -999997972
+      SpritePokemon2_19: 746029653
+      SpritePokemon2_94: 956065772
+      SpritePokemon2_79: -673855747
+      SpritePokemon2_132: 371357820
+      SpritePokemon2_104: 1210630055
+      SpritePokemon2_7: -922717111
+      SpritePokemon2_5: 1566654417
+      SpritePokemon2_100: 2139313769
+      SpritePokemon2_44: 511626120
+      SpritePokemon2_31: 116041310
+      SpritePokemon2_18: 1784512165
+      SpritePokemon2_71: -2124762781
+      SpritePokemon2_133: -2022752966
+      SpritePokemon2_24: 540533175
+      SpritePokemon2_29: 1143392969
+      SpritePokemon2_8: 80388570
+      SpritePokemon2_25: -1402893626
+      SpritePokemon2_85: 338173622
+      SpritePokemon2_120: 143765133
+      SpritePokemon2_111: -248390096
+      SpritePokemon2_123: 1297475212
+      SpritePokemon2_57: -2057678838
+      SpritePokemon2_56: 80224562
+      SpritePokemon2_148: 117141198
+      SpritePokemon2_81: -1144166904
+      SpritePokemon2_137: -1985519230
+      SpritePokemon2_9: -249671146
+      SpritePokemon2_41: -1745213759
+      SpritePokemon2_134: -499157008
+      SpritePokemon2_101: -1907454365
+      SpritePokemon2_150: 2048675215
+      SpritePokemon2_146: -1856624799
+      SpritePokemon2_74: 847882362
+      SpritePokemon2_12: -1455964985
+      SpritePokemon2_103: 167323094
+      SpritePokemon2_37: 1459396445
+      SpritePokemon2_33: 60268238
+      SpritePokemon2_6: -1362444565
+      SpritePokemon2_30: -1609681919
+      SpritePokemon2_59: -49120285
+      SpritePokemon2_122: 1042055018
+      SpritePokemon2_73: -967006636
+      SpritePokemon2_115: -1339094204
+      SpritePokemon2_14: 446483260
+      SpritePokemon2_17: 1034727184
+      SpritePokemon2_11: -420468580
+      SpritePokemon2_50: 646513467
+      SpritePokemon2_32: -229891502
+      SpritePokemon2_151: 26779508
+      SpritePokemon2_108: -2003190995
+      SpritePokemon2_97: 545161704
+      SpritePokemon2_36: -95884826
+      SpritePokemon2_124: -1771604147
+      SpritePokemon2_145: -2011810079
+      SpritePokemon2_99: 1814646658
+      SpritePokemon2_15: 2017782205
+      SpritePokemon2_38: -972517385
+      SpritePokemon2_54: -1546773919
+      SpritePokemon2_141: -1600736459
+      SpritePokemon2_67: -1658079221
+      SpritePokemon2_46: 737713491
+      SpritePokemon2_128: -2051923915
+      SpritePokemon2_80: 1264312546
+      SpritePokemon2_138: 971138536
+      SpritePokemon2_113: -1507556388
+      SpritePokemon2_0: -1034801668
+      SpritePokemon2_51: 704577117
+      SpritePokemon2_84: 1451775594
+      SpritePokemon2_96: -632582903
+      SpritePokemon2_107: -142856860
+      SpritePokemon2_112: 1836035614
+      SpritePokemon2_62: -1724016940
+      SpritePokemon2_92: 1040041124
+      SpritePokemon2_48: 309657562
+      SpritePokemon2_55: -420051417
+      SpritePokemon2_68: 598888355
+      SpritePokemon2_147: 1211723982
+      SpritePokemon2_118: -1225338190
+      SpritePokemon2_34: -1192655924
+      SpritePokemon2_61: 1369404564
+      SpritePokemon2_136: 1998533183
+      SpritePokemon2_83: -605526442
+      SpritePokemon2_116: -1878481208
+      SpritePokemon2_49: -423933738
+      SpritePokemon2_65: 64913295
+      SpritePokemon2_117: 576688002
+      SpritePokemon2_121: 1302106560
+      SpritePokemon2_16: -1387404567
+      SpritePokemon2_45: 2010462453
+      SpritePokemon2_72: -1317049792
+      SpritePokemon2_125: -867528375
+      SpritePokemon2_86: 498412030
+      SpritePokemon2_39: 67311686
+      SpritePokemon2_139: -1743341943
+      SpritePokemon2_13: 1729145976
+      SpritePokemon2_82: 1921530895
+      SpritePokemon2_93: 1245376832
+      SpritePokemon2_110: 2103424090
+      SpritePokemon2_135: -1911274282
+      SpritePokemon2_126: 1707964733
+      SpritePokemon2_28: -1895645024
+      SpritePokemon2_66: 1537371425
+      SpritePokemon2_149: 1336435009
+      SpritePokemon2_142: 1994598482
+      SpritePokemon2_127: 1433390430
+      SpritePokemon2_10: -52604546
+      SpritePokemon2_63: -294426565
+      SpritePokemon2_78: 469132040
+      SpritePokemon2_105: -286456947
+      SpritePokemon2_43: 1554214308
+      SpritePokemon2_119: -1236697169
+      SpritePokemon2_1: -789750318
+      SpritePokemon2_102: 1795804653
+      SpritePokemon2_129: 307141338
+      SpritePokemon2_95: -915121063
+      SpritePokemon2_130: 353790228
+      SpritePokemon2_140: 1883210077
+      SpritePokemon2_98: -1627217656
+      SpritePokemon2_64: 174272245
+      SpritePokemon2_90: -136166146
+      SpritePokemon2_42: 832522160
+      SpritePokemon2_70: 1774957713
+      SpritePokemon2_87: 1128896910
+      SpritePokemon2_35: 2113648426
+      SpritePokemon2_52: 79411697
+      SpritePokemon2_23: -1302232510
+      SpritePokemon2_76: 1852917686
+      SpritePokemon2_144: -236534138
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
