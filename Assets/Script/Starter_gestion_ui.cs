@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class Starter_gestion_ui : MonoBehaviour
 {
@@ -22,11 +23,18 @@ public class Starter_gestion_ui : MonoBehaviour
     public Animator spriteBulbizarreAnimation;
     public Animator spriteSalamecheAnimation;
 
+    //La zone de texte pour le choix starter + le canva + l'anim + bouton oui + bouton non
+    public TextMeshProUGUI zoneTexteChoixStarter;
+    public GameObject canvasChoixStarter;
+    public Animator canvasApparitionChoixStarter;
+    public Button boutonOui;
+    public Button boutonNon;
+
 
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -84,5 +92,67 @@ public class Starter_gestion_ui : MonoBehaviour
         //Salameche
         pokeballSalamecheAnimation.SetBool("movePokeball", !pokeballSalamecheAnimation.GetBool("movePokeball"));
         spriteSalamecheAnimation.SetBool("moveSprite", !spriteSalamecheAnimation.GetBool("moveSprite"));
+    }
+
+
+    //*************************
+    //*** SELECTION STARTER ***
+    //*************************
+
+    public void SelectCarapuceAsStarter()
+    {
+        zoneTexteChoixStarter.text = "Choisir Carapuce le pokémon Eau ?";
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
+
+        boutonOui.onClick.RemoveAllListeners();
+        boutonNon.onClick.RemoveAllListeners();
+
+        //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
+        //mettre le listener fermer canva
+        //boutonOui.onClick.AddListener();
+        boutonNon.onClick.AddListener(() => ListenerForCarapuceBoutonNon());
+    }
+    public void ListenerForCarapuceBoutonNon()
+    {
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
+        ClickForCarapuce();
+    }
+
+    public void SelectBulbizarreAsStarter()
+    {
+        zoneTexteChoixStarter.text = "Choisir Bulbizarre le pokémon Plante ?";
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
+
+        boutonOui.onClick.RemoveAllListeners();
+        boutonNon.onClick.RemoveAllListeners();
+
+        //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
+        //mettre le listener fermer canva
+        //boutonOui.onClick.AddListener();
+        boutonNon.onClick.AddListener(() => ListenerForBlbizarreBoutonNon());
+    }
+    public void ListenerForBlbizarreBoutonNon()
+    {
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
+        ClickForBulbizarre();
+    }
+
+    public void SelectSalamecheAsStarter()
+    {
+        zoneTexteChoixStarter.text = "Choisir Salameche le pokémon Feu ?";
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
+
+        boutonOui.onClick.RemoveAllListeners();
+        boutonNon.onClick.RemoveAllListeners();
+
+        //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
+        //mettre le listener fermer canva
+        //boutonOui.onClick.AddListener();
+        boutonNon.onClick.AddListener(() => ListenerForSalamecheBoutonNon());
+    }
+    public void ListenerForSalamecheBoutonNon()
+    {
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
+        ClickForSalameche();
     }
 }
