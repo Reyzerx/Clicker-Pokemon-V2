@@ -66,8 +66,8 @@ public class Starter_gestion_ui : MonoBehaviour
         pokeballCarapuceAnimation.SetBool("movePokeball", false);
         spriteCarapuceAnimation.SetBool("moveSprite", false);
         //Bulbizarre
-        pokeballBulbizarreAnimation.SetBool("movePokeball", true);
-        spriteBulbizarreAnimation.SetBool("moveSprite", true);
+        pokeballBulbizarreAnimation.SetBool("movePokeball", !pokeballBulbizarreAnimation.GetBool("movePokeball"));
+        spriteBulbizarreAnimation.SetBool("moveSprite", !spriteBulbizarreAnimation.GetBool("moveSprite"));
         //Salameche
         pokeballSalamecheAnimation.SetBool("movePokeball", false);
         spriteSalamecheAnimation.SetBool("moveSprite", false);
@@ -82,7 +82,7 @@ public class Starter_gestion_ui : MonoBehaviour
         pokeballBulbizarreAnimation.SetBool("movePokeball", false);
         spriteBulbizarreAnimation.SetBool("moveSprite", false);
         //Salameche
-        pokeballSalamecheAnimation.SetBool("movePokeball", true);
-        spriteSalamecheAnimation.SetBool("moveSprite", true);
+        pokeballSalamecheAnimation.SetBool("movePokeball", !pokeballSalamecheAnimation.GetBool("movePokeball"));
+        spriteSalamecheAnimation.SetBool("moveSprite", !spriteSalamecheAnimation.GetBool("moveSprite"));
     }
 }
