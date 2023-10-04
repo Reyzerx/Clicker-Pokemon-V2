@@ -10,9 +10,9 @@ public class Starter_gestion_ui : MonoBehaviour
     public Image fondTransparent;
 
     //les images pokémon a afficher quand on click sur pokéball
-    public Image carapuce;
-    public Image bulbizarre;
-    public Image salameche;
+    public Image carapuceImage;
+    public Image bulbizarreImage;
+    public Image salamecheImage;
 
     //Les animation de pokéball qui bouge quand on clique dessus
     public Animator pokeballCarapuceAnimation;
@@ -30,12 +30,26 @@ public class Starter_gestion_ui : MonoBehaviour
     public Button boutonOui;
     public Button boutonNon;
 
+    //Les 3 objets pokemon a setup pour sauvegarder le choix
+    public Pokemon carapuce = new Pokemon();
+    public Pokemon bulbizarre = new Pokemon();
+    public Pokemon salameche = new Pokemon();
+
+    //Suppr
+    public ValidationStarter test;
+    public GameObject canvasValidateStarter;
+
 
     // Start is called before the first frame update
     void Start()
     {
-        
-    }
+        carapuceImage.GetComponent<Button>().interactable = false;
+        bulbizarreImage.GetComponent<Button>().interactable = false;
+        salamecheImage.GetComponent<Button>().interactable = false;
+
+        //Suppr
+        canvasValidateStarter.SetActive(false);
+}
 
     // Update is called once per frame
     void Update()
@@ -58,40 +72,55 @@ public class Starter_gestion_ui : MonoBehaviour
     public void ClickForCarapuce()
     {
         //Carapuce
+        carapuceImage.GetComponent<Button>().interactable = !carapuceImage.GetComponent<Button>().interactable;
         pokeballCarapuceAnimation.SetBool("movePokeball", !pokeballCarapuceAnimation.GetBool("movePokeball"));
         spriteCarapuceAnimation.SetBool("moveSprite", !spriteCarapuceAnimation.GetBool("moveSprite"));
         //Bulbizarre
+        bulbizarreImage.GetComponent<Button>().interactable = false;
         pokeballBulbizarreAnimation.SetBool("movePokeball", false);
         spriteBulbizarreAnimation.SetBool("moveSprite", false);
         //Salameche
+        salamecheImage.GetComponent<Button>().interactable = false;
         pokeballSalamecheAnimation.SetBool("movePokeball", false);
         spriteSalamecheAnimation.SetBool("moveSprite", false);
+
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
     public void ClickForBulbizarre()
     {
         //Carapuce
+        carapuceImage.GetComponent<Button>().interactable = false;
         pokeballCarapuceAnimation.SetBool("movePokeball", false);
         spriteCarapuceAnimation.SetBool("moveSprite", false);
         //Bulbizarre
+        bulbizarreImage.GetComponent<Button>().interactable = !bulbizarreImage.GetComponent<Button>().interactable;
         pokeballBulbizarreAnimation.SetBool("movePokeball", !pokeballBulbizarreAnimation.GetBool("movePokeball"));
         spriteBulbizarreAnimation.SetBool("moveSprite", !spriteBulbizarreAnimation.GetBool("moveSprite"));
         //Salameche
+        salamecheImage.GetComponent<Button>().interactable = false;
         pokeballSalamecheAnimation.SetBool("movePokeball", false);
         spriteSalamecheAnimation.SetBool("moveSprite", false);
+
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
     public void ClickForSalameche()
     {
         //Carapuce
+        carapuceImage.GetComponent<Button>().interactable = false;
         pokeballCarapuceAnimation.SetBool("movePokeball", false);
         spriteCarapuceAnimation.SetBool("moveSprite", false);
         //Bulbizarre
+        bulbizarreImage.GetComponent<Button>().interactable = false;
         pokeballBulbizarreAnimation.SetBool("movePokeball", false);
         spriteBulbizarreAnimation.SetBool("moveSprite", false);
         //Salameche
+        salamecheImage.GetComponent<Button>().interactable = !salamecheImage.GetComponent<Button>().interactable;
         pokeballSalamecheAnimation.SetBool("movePokeball", !pokeballSalamecheAnimation.GetBool("movePokeball"));
         spriteSalamecheAnimation.SetBool("moveSprite", !spriteSalamecheAnimation.GetBool("moveSprite"));
+
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
 
@@ -109,14 +138,27 @@ public class Starter_gestion_ui : MonoBehaviour
 
         //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
         //mettre le listener fermer canva
-        //boutonOui.onClick.AddListener();
+        boutonOui.onClick.AddListener(() => ListenerForCarapuceBoutonOui());
         boutonNon.onClick.AddListener(() => ListenerForCarapuceBoutonNon());
+    }
+    public void ListenerForCarapuceBoutonOui()
+    {
+        SaveData.data.starter = carapuce;
+        //Suppr
+        canvasValidateStarter.SetActive(true);
+        test.afficherStats();
     }
     public void ListenerForCarapuceBoutonNon()
     {
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForCarapuce();
+        ClickForFondTransparent();
     }
+
+
+    //*************************
+    //****** BULBIZARRE *******
+    //*************************
 
     public void SelectBulbizarreAsStarter()
     {
@@ -126,16 +168,27 @@ public class Starter_gestion_ui : MonoBehaviour
         boutonOui.onClick.RemoveAllListeners();
         boutonNon.onClick.RemoveAllListeners();
 
-        //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
-        //mettre le listener fermer canva
-        //boutonOui.onClick.AddListener();
+        boutonOui.onClick.AddListener(() => ListenerForBulbizarreBoutonOui());
         boutonNon.onClick.AddListener(() => ListenerForBlbizarreBoutonNon());
+    }
+    public void ListenerForBulbizarreBoutonOui()
+    {
+        SaveData.data.starter = bulbizarre;
+        //Suppr
+        canvasValidateStarter.SetActive(true);
+        test.afficherStats();
     }
     public void ListenerForBlbizarreBoutonNon()
     {
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForBulbizarre();
+        ClickForFondTransparent();
     }
+
+
+    //*************************
+    //****** SALAMECHE ********
+    //*************************
 
     public void SelectSalamecheAsStarter()
     {
@@ -145,14 +198,20 @@ public class Starter_gestion_ui : MonoBehaviour
         boutonOui.onClick.RemoveAllListeners();
         boutonNon.onClick.RemoveAllListeners();
 
-        //mettre le listener gameobject starter = "carapuce" dans le script save + masquer tout le canva starter
-        //mettre le listener fermer canva
-        //boutonOui.onClick.AddListener();
+        boutonOui.onClick.AddListener(() => ListenerForSalamecheBoutonOui());
         boutonNon.onClick.AddListener(() => ListenerForSalamecheBoutonNon());
+    }
+    public void ListenerForSalamecheBoutonOui()
+    {
+        SaveData.data.starter = salameche;
+        //Suppr
+        canvasValidateStarter.SetActive(true);
+        test.afficherStats();
     }
     public void ListenerForSalamecheBoutonNon()
     {
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForSalameche();
+        ClickForFondTransparent();
     }
 }
