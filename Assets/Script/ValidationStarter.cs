@@ -23,15 +23,15 @@ public class ValidationStarter : MonoBehaviour
 
     public void afficherStats()
     {
-        sprite.sprite = SaveData.data.starter.sprite;
-        textStatspoke.text = "nom = " + SaveData.data.starter.nom
-            + "\n niveau = " + SaveData.data.starter.niveau
-            + "\n degat = " + SaveData.data.starter.degat
-            + "\n exp = " + SaveData.data.starter.exp
-            + "\n type = " + SaveData.data.starter.type[0]
-            + "\n estStocker = " + SaveData.data.starter.estStocker
-            + "\n estEquipe = " + SaveData.data.starter.estEquipe
-            + "\n estShop = " + SaveData.data.starter.estShop
-            + "\n estSauvage = " + SaveData.data.starter.estSauvage;
+        sprite.sprite = SaveData.dataStatic.starter.sprite;
+        textStatspoke.text = "nom = " + SaveData.dataStatic.starter.nom
+            + "\n niveau = " + SaveData.dataStatic.starter.niveau
+            + "\n degat = " + SaveData.dataStatic.starter.degat
+            + "\n exp = " + SaveData.dataStatic.starter.exp
+            + "\n type = " + SaveData.dataStatic.starter.type[0]
+            + "\n estStocker = " + SaveData.dataStatic.starter.estStocker
+            + "\n estEquipe = " + SaveData.dataStatic.starter.estEquipe
+            + "\n estShop = " + SaveData.dataStatic.starter.estShop
+            + "\n estSauvage = " + SaveData.dataStatic.starter.estSauvage;
     }
 }

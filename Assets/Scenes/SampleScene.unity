@@ -2235,6 +2235,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcfc1d51935904544920152aced0e360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  data:
+    starter:
+      niveau: 0
+      exp: 0
+      expPourUpNiveau: 0
+      degat: 0
+      nom: 
+      type: []
+      sprite: {fileID: 0}
+      estStocker: 0
+      estEquipe: 0
+      estShop: 0
+      estSauvage: 0
+      currentPv: 0
+      maxPv: 0
+    equipePokemonJoueur: []
+    stockagePokemonJoueur: []
 --- !u!1 &1150455194
 GameObject:
   m_ObjectHideFlags: 0
@@ -3520,7 +3537,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1019.6, y: 470.78}
+  m_SizeDelta: {x: 1900, y: 1900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1838847112
 CanvasRenderer:

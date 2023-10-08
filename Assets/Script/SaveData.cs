@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class SaveData : MonoBehaviour
 {
-    public static Data data = new Data();
+    public static Data dataStatic = new Data();
+    public Data data;
 
     private void Update()
     {
@@ -20,6 +21,8 @@ public class SaveData : MonoBehaviour
             Debug.Log("Load");
             Debug.Log(data.starter.nom);
         }
+
+        data = dataStatic;
     }
 
     public void SaveToJson()
@@ -46,4 +49,6 @@ public class Data
     [SerializeField]
     public Pokemon starter;
 
+    public List<Pokemon> equipePokemonJoueur;
+    public List<Pokemon> stockagePokemonJoueur;
 }

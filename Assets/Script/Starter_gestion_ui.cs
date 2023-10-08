@@ -143,7 +143,7 @@ public class Starter_gestion_ui : MonoBehaviour
     }
     public void ListenerForCarapuceBoutonOui()
     {
-        SaveData.data.starter = carapuce;
+        SaveData.dataStatic.starter = carapuce;
         //Suppr
         canvasValidateStarter.SetActive(true);
         test.afficherStats();
@@ -173,7 +173,7 @@ public class Starter_gestion_ui : MonoBehaviour
     }
     public void ListenerForBulbizarreBoutonOui()
     {
-        SaveData.data.starter = bulbizarre;
+        SaveData.dataStatic.starter = bulbizarre;
         //Suppr
         canvasValidateStarter.SetActive(true);
         test.afficherStats();
@@ -203,7 +203,7 @@ public class Starter_gestion_ui : MonoBehaviour
     }
     public void ListenerForSalamecheBoutonOui()
     {
-        SaveData.data.starter = salameche;
+        SaveData.dataStatic.starter = salameche;
         //Suppr
         canvasValidateStarter.SetActive(true);
         test.afficherStats();
