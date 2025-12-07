@@ -1,0 +1,5 @@
+C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/.utmp/RelWithDebInfo/663x61n4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/.utmp/RelWithDebInfo/663x61n4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/.utmp/RelWithDebInfo/663x61n4/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/.utmp/RelWithDebInfo/663x61n4/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/.utmp/RelWithDebInfo/663x61n4/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

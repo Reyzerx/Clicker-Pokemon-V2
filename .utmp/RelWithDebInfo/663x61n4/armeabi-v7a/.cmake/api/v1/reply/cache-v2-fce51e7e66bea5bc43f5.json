@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/cpp"
+			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\antho\\Desktop\\Unity\\Github\\Clicker-Pokemon-V2\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\663x61n4\\obj\\armeabi-v7a"
+			"value" : "C:\\Users\\antho\\Desktop\\Unity\\Github\\Clicker-Pokemon-V2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\663x61n4\\obj\\armeabi-v7a"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -967,7 +967,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\antho\\Desktop\\Unity\\Github\\Clicker-Pokemon-V2\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\663x61n4\\obj\\armeabi-v7a"
+			"value" : "C:\\Users\\antho\\Desktop\\Unity\\Github\\Clicker-Pokemon-V2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\663x61n4\\obj\\armeabi-v7a"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/cpp"
+			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp"
 		},
 		{
 			"name" : "games-frame-pacing_DIR",
@@ -1323,7 +1323,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/cpp/FramePacing"
+			"value" : "C:/Users/antho/Desktop/Unity/Github/Clicker-Pokemon-V2/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing"
 		}
 	],
 	"kind" : "cache",
