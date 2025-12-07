@@ -6,15 +6,15 @@ using TMPro;
 
 public class Starter_gestion_ui : MonoBehaviour
 {
-    //fond pour pour effet click sur pokéball
+    //fond pour pour effet click sur pokÃ©ball
     public Image fondTransparent;
 
-    //les images pokémon a afficher quand on click sur pokéball
+    //les images pokÃ©mon a afficher quand on click sur pokÃ©ball
     public Image carapuceImage;
     public Image bulbizarreImage;
     public Image salamecheImage;
 
-    //Les animation de pokéball qui bouge quand on clique dessus
+    //Les animation de pokÃ©ball qui bouge quand on clique dessus
     public Animator pokeballCarapuceAnimation;
     public Animator pokeballBulbizarreAnimation;
     public Animator pokeballSalamecheAnimation;
@@ -36,8 +36,8 @@ public class Starter_gestion_ui : MonoBehaviour
     public Pokemon salameche = new Pokemon();
 
     //Suppr
-    public ValidationStarter test;
-    public GameObject canvasValidateStarter;
+    public ValidationStarter validationStarter;
+    // public GameObject canvasValidateStarter;
 
 
     // Start is called before the first frame update
@@ -48,7 +48,7 @@ public class Starter_gestion_ui : MonoBehaviour
         salamecheImage.GetComponent<Button>().interactable = false;
 
         //Suppr
-        canvasValidateStarter.SetActive(false);
+        // canvasValidateStarter.SetActive(false);
 }
 
     // Update is called once per frame
@@ -130,7 +130,7 @@ public class Starter_gestion_ui : MonoBehaviour
 
     public void SelectCarapuceAsStarter()
     {
-        zoneTexteChoixStarter.text = "Choisir Carapuce le pokémon Eau ?";
+        zoneTexteChoixStarter.text = "Choisir Carapuce le pokÃ©mon Eau ?";
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
@@ -144,9 +144,7 @@ public class Starter_gestion_ui : MonoBehaviour
     public void ListenerForCarapuceBoutonOui()
     {
         SaveData.dataStatic.starter = carapuce;
-        //Suppr
-        canvasValidateStarter.SetActive(true);
-        test.afficherStats();
+        validationStarter.validerStarter(carapuce);
     }
     public void ListenerForCarapuceBoutonNon()
     {
@@ -162,7 +160,7 @@ public class Starter_gestion_ui : MonoBehaviour
 
     public void SelectBulbizarreAsStarter()
     {
-        zoneTexteChoixStarter.text = "Choisir Bulbizarre le pokémon Plante ?";
+        zoneTexteChoixStarter.text = "Choisir Bulbizarre le pokÃ©mon Plante ?";
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
@@ -174,9 +172,7 @@ public class Starter_gestion_ui : MonoBehaviour
     public void ListenerForBulbizarreBoutonOui()
     {
         SaveData.dataStatic.starter = bulbizarre;
-        //Suppr
-        canvasValidateStarter.SetActive(true);
-        test.afficherStats();
+        validationStarter.validerStarter(bulbizarre);
     }
     public void ListenerForBlbizarreBoutonNon()
     {
@@ -192,7 +188,7 @@ public class Starter_gestion_ui : MonoBehaviour
 
     public void SelectSalamecheAsStarter()
     {
-        zoneTexteChoixStarter.text = "Choisir Salameche le pokémon Feu ?";
+        zoneTexteChoixStarter.text = "Choisir Salameche le pokÃ©mon Feu ?";
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
@@ -204,9 +200,7 @@ public class Starter_gestion_ui : MonoBehaviour
     public void ListenerForSalamecheBoutonOui()
     {
         SaveData.dataStatic.starter = salameche;
-        //Suppr
-        canvasValidateStarter.SetActive(true);
-        test.afficherStats();
+        validationStarter.validerStarter(salameche);
     }
     public void ListenerForSalamecheBoutonNon()
     {

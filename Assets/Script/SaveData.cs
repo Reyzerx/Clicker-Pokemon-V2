@@ -39,6 +39,13 @@ public class SaveData : MonoBehaviour
         string saveData = System.IO.File.ReadAllText(filePath);
 
         data = JsonUtility.FromJson<Data>(saveData);
+
+        setAllDataFromLoad(data);
+    }
+
+    public void setAllDataFromLoad(Data data)
+    {
+        
     }
 }
 
