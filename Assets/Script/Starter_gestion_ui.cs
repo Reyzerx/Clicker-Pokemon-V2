@@ -9,11 +9,6 @@ public class Starter_gestion_ui : MonoBehaviour
     //fond pour pour effet click sur pokéball
     public Image fondTransparent;
 
-    //les images pokémon a afficher quand on click sur pokéball
-    public Image carapuceImage;
-    public Image bulbizarreImage;
-    public Image salamecheImage;
-
     //Les animation de pokéball qui bouge quand on clique dessus
     public Animator pokeballCarapuceAnimation;
     public Animator pokeballBulbizarreAnimation;
@@ -29,11 +24,12 @@ public class Starter_gestion_ui : MonoBehaviour
     public Animator canvasApparitionChoixStarter;
     public Button boutonOui;
     public Button boutonNon;
-
+    
     //Les 3 objets pokemon a setup pour sauvegarder le choix
-    public Pokemon carapuce = new Pokemon();
-    public Pokemon bulbizarre = new Pokemon();
-    public Pokemon salameche = new Pokemon();
+    public PokemonTemplate carapuce;
+    public PokemonTemplate bulbizarre;
+    public PokemonTemplate salameche;
+
 
     //Suppr
     public ValidationStarter validationStarter;
@@ -43,13 +39,8 @@ public class Starter_gestion_ui : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        carapuceImage.GetComponent<Button>().interactable = false;
-        bulbizarreImage.GetComponent<Button>().interactable = false;
-        salamecheImage.GetComponent<Button>().interactable = false;
-
-        //Suppr
-        // canvasValidateStarter.SetActive(false);
-}
+        
+    }
 
     // Update is called once per frame
     void Update()
@@ -71,55 +62,54 @@ public class Starter_gestion_ui : MonoBehaviour
 
     public void ClickForCarapuce()
     {
+        //ResetApparitionCanvas();
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", !  canvasApparitionChoixStarter.GetBool("apparitionCanvas"));
+
         //Carapuce
-        carapuceImage.GetComponent<Button>().interactable = !carapuceImage.GetComponent<Button>().interactable;
         pokeballCarapuceAnimation.SetBool("movePokeball", !pokeballCarapuceAnimation.GetBool("movePokeball"));
         spriteCarapuceAnimation.SetBool("moveSprite", !spriteCarapuceAnimation.GetBool("moveSprite"));
         //Bulbizarre
-        bulbizarreImage.GetComponent<Button>().interactable = false;
         pokeballBulbizarreAnimation.SetBool("movePokeball", false);
         spriteBulbizarreAnimation.SetBool("moveSprite", false);
         //Salameche
-        salamecheImage.GetComponent<Button>().interactable = false;
         pokeballSalamecheAnimation.SetBool("movePokeball", false);
         spriteSalamecheAnimation.SetBool("moveSprite", false);
-
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
     public void ClickForBulbizarre()
     {
+        // ResetApparitionCanvas();
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", !  canvasApparitionChoixStarter.GetBool("apparitionCanvas"));
+
         //Carapuce
-        carapuceImage.GetComponent<Button>().interactable = false;
         pokeballCarapuceAnimation.SetBool("movePokeball", false);
         spriteCarapuceAnimation.SetBool("moveSprite", false);
         //Bulbizarre
-        bulbizarreImage.GetComponent<Button>().interactable = !bulbizarreImage.GetComponent<Button>().interactable;
         pokeballBulbizarreAnimation.SetBool("movePokeball", !pokeballBulbizarreAnimation.GetBool("movePokeball"));
         spriteBulbizarreAnimation.SetBool("moveSprite", !spriteBulbizarreAnimation.GetBool("moveSprite"));
         //Salameche
-        salamecheImage.GetComponent<Button>().interactable = false;
         pokeballSalamecheAnimation.SetBool("movePokeball", false);
         spriteSalamecheAnimation.SetBool("moveSprite", false);
-
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
     public void ClickForSalameche()
     {
+        //ResetApparitionCanvas();
+        canvasApparitionChoixStarter.SetBool("apparitionCanvas", !  canvasApparitionChoixStarter.GetBool("apparitionCanvas"));
+
         //Carapuce
-        carapuceImage.GetComponent<Button>().interactable = false;
         pokeballCarapuceAnimation.SetBool("movePokeball", false);
         spriteCarapuceAnimation.SetBool("moveSprite", false);
         //Bulbizarre
-        bulbizarreImage.GetComponent<Button>().interactable = false;
         pokeballBulbizarreAnimation.SetBool("movePokeball", false);
         spriteBulbizarreAnimation.SetBool("moveSprite", false);
         //Salameche
-        salamecheImage.GetComponent<Button>().interactable = !salamecheImage.GetComponent<Button>().interactable;
         pokeballSalamecheAnimation.SetBool("movePokeball", !pokeballSalamecheAnimation.GetBool("movePokeball"));
         spriteSalamecheAnimation.SetBool("moveSprite", !spriteSalamecheAnimation.GetBool("moveSprite"));
+    }
 
+    public void ResetApparitionCanvas()
+    {
         canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
     }
 
@@ -131,7 +121,6 @@ public class Starter_gestion_ui : MonoBehaviour
     public void SelectCarapuceAsStarter()
     {
         zoneTexteChoixStarter.text = "Choisir Carapuce le pokémon Eau ?";
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
         boutonNon.onClick.RemoveAllListeners();
@@ -140,15 +129,15 @@ public class Starter_gestion_ui : MonoBehaviour
         //mettre le listener fermer canva
         boutonOui.onClick.AddListener(() => ListenerForCarapuceBoutonOui());
         boutonNon.onClick.AddListener(() => ListenerForCarapuceBoutonNon());
+
     }
     public void ListenerForCarapuceBoutonOui()
     {
-        SaveData.dataStatic.starter = carapuce;
-        validationStarter.validerStarter(carapuce);
+        //SaveData.dataStatic.starter = carapuce;
+        validationStarter.validerStarter(new Pokemon(carapuce, 5, false));
     }
     public void ListenerForCarapuceBoutonNon()
     {
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForCarapuce();
         ClickForFondTransparent();
     }
@@ -161,22 +150,21 @@ public class Starter_gestion_ui : MonoBehaviour
     public void SelectBulbizarreAsStarter()
     {
         zoneTexteChoixStarter.text = "Choisir Bulbizarre le pokémon Plante ?";
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
         boutonNon.onClick.RemoveAllListeners();
 
         boutonOui.onClick.AddListener(() => ListenerForBulbizarreBoutonOui());
-        boutonNon.onClick.AddListener(() => ListenerForBlbizarreBoutonNon());
+        boutonNon.onClick.AddListener(() => ListenerForBulbizarreBoutonNon());
+
     }
     public void ListenerForBulbizarreBoutonOui()
     {
-        SaveData.dataStatic.starter = bulbizarre;
-        validationStarter.validerStarter(bulbizarre);
+        //SaveData.dataStatic.starter = bulbizarre;
+        validationStarter.validerStarter(new Pokemon(bulbizarre, 5, false));
     }
-    public void ListenerForBlbizarreBoutonNon()
+    public void ListenerForBulbizarreBoutonNon()
     {
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForBulbizarre();
         ClickForFondTransparent();
     }
@@ -189,22 +177,21 @@ public class Starter_gestion_ui : MonoBehaviour
     public void SelectSalamecheAsStarter()
     {
         zoneTexteChoixStarter.text = "Choisir Salameche le pokémon Feu ?";
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", true);
 
         boutonOui.onClick.RemoveAllListeners();
         boutonNon.onClick.RemoveAllListeners();
 
         boutonOui.onClick.AddListener(() => ListenerForSalamecheBoutonOui());
         boutonNon.onClick.AddListener(() => ListenerForSalamecheBoutonNon());
+
     }
     public void ListenerForSalamecheBoutonOui()
     {
-        SaveData.dataStatic.starter = salameche;
-        validationStarter.validerStarter(salameche);
+        //SaveData.dataStatic.starter = salameche;
+        validationStarter.validerStarter(new Pokemon(salameche, 5, false));
     }
     public void ListenerForSalamecheBoutonNon()
     {
-        canvasApparitionChoixStarter.SetBool("apparitionCanvas", false);
         ClickForSalameche();
         ClickForFondTransparent();
     }

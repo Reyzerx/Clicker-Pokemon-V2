@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: e6195c6a91213f5478768e89d05d7148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9050520251149340262
+    second: BattleBase pokemon remove bg_0
+  - first:
+      213: 6659741023707225695
+    second: BattleBase pokemon remove bg_1
+  - first:
+      213: 1922363944303824631
+    second: BattleBase pokemon remove bg_2
+  - first:
+      213: 6172289655737969110
+    second: BattleBase pokemon remove bg_3
+  - first:
+      213: -7633762174160274757
+    second: BattleBase pokemon remove bg_4
+  - first:
+      213: 4434207020989322928
+    second: BattleBase pokemon remove bg_5
+  - first:
+      213: -2974017439404255749
+    second: BattleBase pokemon remove bg_6
+  - first:
+      213: 8221227501732295328
+    second: BattleBase pokemon remove bg_7
+  - first:
+      213: -9086800345640641446
+    second: BattleBase pokemon remove bg_8
+  - first:
+      213: -1364085632842414167
+    second: BattleBase pokemon remove bg_9
+  - first:
+      213: -4789572880194751650
+    second: BattleBase pokemon remove bg_10
+  - first:
+      213: 2257506868075371851
+    second: BattleBase pokemon remove bg_11
+  - first:
+      213: -1118893533651517962
+    second: BattleBase pokemon remove bg_12
+  - first:
+      213: 1836789077027202951
+    second: BattleBase pokemon remove bg_13
+  - first:
+      213: 3881353570060611673
+    second: BattleBase pokemon remove bg_14
+  - first:
+      213: -8705616214467762992
+    second: BattleBase pokemon remove bg_15
+  - first:
+      213: -5498500407726435157
+    second: BattleBase pokemon remove bg_16
+  - first:
+      213: 6925382561945854557
+    second: BattleBase pokemon remove bg_17
+  - first:
+      213: -1843758046393991876
+    second: BattleBase pokemon remove bg_18
+  - first:
+      213: -8148449826721174007
+    second: BattleBase pokemon remove bg_19
+  - first:
+      213: -188687689924956710
+    second: BattleBase pokemon remove bg_20
+  - first:
+      213: 9222029088156764152
+    second: BattleBase pokemon remove bg_21
+  - first:
+      213: 5417838795216657486
+    second: BattleBase pokemon remove bg_22
+  - first:
+      213: 2113327920726064130
+    second: BattleBase pokemon remove bg_23
+  - first:
+      213: 370375825100986319
+    second: BattleBase pokemon remove bg_24
+  - first:
+      213: -8855704227782109869
+    second: BattleBase pokemon remove bg_25
+  - first:
+      213: 6354475466385765461
+    second: BattleBase pokemon remove bg_26
+  - first:
+      213: -6214112604167817134
+    second: BattleBase pokemon remove bg_27
+  - first:
+      213: -3808329097091086600
+    second: BattleBase pokemon remove bg_28
+  - first:
+      213: -5755991586213522682
+    second: BattleBase pokemon remove bg_29
+  - first:
+      213: -7031186392164571905
+    second: BattleBase pokemon remove bg_30
+  - first:
+      213: -2085324135996160355
+    second: BattleBase pokemon remove bg_31
+  - first:
+      213: 4100007720179511640
+    second: BattleBase pokemon remove bg_32
+  - first:
+      213: 6219464827903452189
+    second: BattleBase pokemon remove bg_33
+  - first:
+      213: -1995421252202098235
+    second: BattleBase pokemon remove bg_34
+  - first:
+      213: -2829613252429555403
+    second: BattleBase pokemon remove bg_35
+  - first:
+      213: 4472597446152225501
+    second: BattleBase pokemon remove bg_36
+  - first:
+      213: -3469589763572964460
+    second: BattleBase pokemon remove bg_37
+  - first:
+      213: -3509622252262624180
+    second: BattleBase pokemon remove bg_38
+  - first:
+      213: 4837046239480330066
+    second: BattleBase pokemon remove bg_39
+  - first:
+      213: -2007140264909949563
+    second: BattleBase pokemon remove bg_40
+  - first:
+      213: -2679380583232800758
+    second: BattleBase pokemon remove bg_41
+  - first:
+      213: 318992442800111890
+    second: BattleBase pokemon remove bg_42
+  - first:
+      213: 4059886174578668160
+    second: BattleBase pokemon remove bg_43
+  - first:
+      213: 5419747457411520894
+    second: BattleBase pokemon remove bg_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 639
+        width: 206
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b3c588c7166280800000000000000
+      internalID: -9050520251149340262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 631
+        width: 128
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5a2e1d272c6c50800000000000000
+      internalID: 6659741023707225695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 631
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8f3d72db9daa10800000000000000
+      internalID: 1922363944303824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 631
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9641d5db068a550800000000000000
+      internalID: 6172289655737969110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 631
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafc5d7fbd6f0690800000000000000
+      internalID: -7633762174160274757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 599
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b69c9acac7798d30800000000000000
+      internalID: 4434207020989322928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 559
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf51e7855ea2ab6d0800000000000000
+      internalID: -2974017439404255749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 559
+        width: 128
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2fc6adadaa71270800000000000000
+      internalID: 8221227501732295328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 559
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5135ca3335e180800000000000000
+      internalID: -9086800345640641446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 559
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7c63b185bc11de0800000000000000
+      internalID: -1364085632842414167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 559
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b52a77d4088db0800000000000000
+      internalID: -4789572880194751650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 519
+        width: 214
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d13a52986445f10800000000000000
+      internalID: 2257506868075371851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 487
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd38316244e870f0800000000000000
+      internalID: -1118893533651517962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 487
+        width: 126
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787268f0fe59d7910800000000000000
+      internalID: 1836789077027202951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_14
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 487
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9503827f1865dd530800000000000000
+      internalID: 3881353570060611673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 486
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a4c16d207f2780800000000000000
+      internalID: -8705616214467762992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 479
+        width: 214
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41020f20761b3b0800000000000000
+      internalID: -5498500407726435157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 439
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52a7727fb6eb1060800000000000000
+      internalID: 6925382561945854557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 414
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dfae053d7a966e0800000000000000
+      internalID: -1843758046393991876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 414
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee0301e04eaee80800000000000000
+      internalID: -8148449826721174007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 414
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adda884bb85a16df0800000000000000
+      internalID: -188687689924956710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 414
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f747e3689a3bff70800000000000000
+      internalID: 9222029088156764152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 399
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1837eda7003b40800000000000000
+      internalID: 5417838795216657486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 359
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cbac80c8c045d10800000000000000
+      internalID: 2113327920726064130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_24
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 359
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75980c9d6d32500800000000000000
+      internalID: 370375825100986319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 343
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555f13ace73a1580800000000000000
+      internalID: -8855704227782109869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_26
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 343
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554bbdbe4c1af2850800000000000000
+      internalID: 6354475466385765461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 319
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258bc42a28903c9a0800000000000000
+      internalID: -6214112604167817134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 319
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60a141dd8162bc0800000000000000
+      internalID: -3808329097091086600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 279
+        width: 222
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6031b9d162c9e10b0800000000000000
+      internalID: -5755991586213522682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 279
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff46879aa353c6e90800000000000000
+      internalID: -7031186392164571905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 271
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9686603fb07f03e0800000000000000
+      internalID: -2085324135996160355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 271
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b8a97c4726e830800000000000000
+      internalID: 4100007720179511640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 239
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a8301f4aff4650800000000000000
+      internalID: 6219464827903452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 239
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19a3d71f6de44e0800000000000000
+      internalID: -1995421252202098235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d2352db13bb8d0800000000000000
+      internalID: -2829613252429555403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 199
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd209313eabd11e30800000000000000
+      internalID: 4472597446152225501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_37
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 199
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493e6e12e7a89dfc0800000000000000
+      internalID: -3469589763572964460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_38
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 199
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44741608215b4fc0800000000000000
+      internalID: -3509622252262624180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2573d525de3a02340800000000000000
+      internalID: 4837046239480330066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_40
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 159
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585b8a730943524e0800000000000000
+      internalID: -2007140264909949563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 119
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0874563e8de0dad0800000000000000
+      internalID: -2679380583232800758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_42
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118227cfe94d6400800000000000000
+      internalID: 318992442800111890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082f74037fc975830800000000000000
+      internalID: 4059886174578668160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleBase pokemon remove bg_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 39
+        width: 222
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791753f89fc63b40800000000000000
+      internalID: 5419747457411520894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BattleBase pokemon remove bg_0: -9050520251149340262
+      BattleBase pokemon remove bg_1: 6659741023707225695
+      BattleBase pokemon remove bg_10: -4789572880194751650
+      BattleBase pokemon remove bg_11: 2257506868075371851
+      BattleBase pokemon remove bg_12: -1118893533651517962
+      BattleBase pokemon remove bg_13: 1836789077027202951
+      BattleBase pokemon remove bg_14: 3881353570060611673
+      BattleBase pokemon remove bg_15: -8705616214467762992
+      BattleBase pokemon remove bg_16: -5498500407726435157
+      BattleBase pokemon remove bg_17: 6925382561945854557
+      BattleBase pokemon remove bg_18: -1843758046393991876
+      BattleBase pokemon remove bg_19: -8148449826721174007
+      BattleBase pokemon remove bg_2: 1922363944303824631
+      BattleBase pokemon remove bg_20: -188687689924956710
+      BattleBase pokemon remove bg_21: 9222029088156764152
+      BattleBase pokemon remove bg_22: 5417838795216657486
+      BattleBase pokemon remove bg_23: 2113327920726064130
+      BattleBase pokemon remove bg_24: 370375825100986319
+      BattleBase pokemon remove bg_25: -8855704227782109869
+      BattleBase pokemon remove bg_26: 6354475466385765461
+      BattleBase pokemon remove bg_27: -6214112604167817134
+      BattleBase pokemon remove bg_28: -3808329097091086600
+      BattleBase pokemon remove bg_29: -5755991586213522682
+      BattleBase pokemon remove bg_3: 6172289655737969110
+      BattleBase pokemon remove bg_30: -7031186392164571905
+      BattleBase pokemon remove bg_31: -2085324135996160355
+      BattleBase pokemon remove bg_32: 4100007720179511640
+      BattleBase pokemon remove bg_33: 6219464827903452189
+      BattleBase pokemon remove bg_34: -1995421252202098235
+      BattleBase pokemon remove bg_35: -2829613252429555403
+      BattleBase pokemon remove bg_36: 4472597446152225501
+      BattleBase pokemon remove bg_37: -3469589763572964460
+      BattleBase pokemon remove bg_38: -3509622252262624180
+      BattleBase pokemon remove bg_39: 4837046239480330066
+      BattleBase pokemon remove bg_4: -7633762174160274757
+      BattleBase pokemon remove bg_40: -2007140264909949563
+      BattleBase pokemon remove bg_41: -2679380583232800758
+      BattleBase pokemon remove bg_42: 318992442800111890
+      BattleBase pokemon remove bg_43: 4059886174578668160
+      BattleBase pokemon remove bg_44: 5419747457411520894
+      BattleBase pokemon remove bg_5: 4434207020989322928
+      BattleBase pokemon remove bg_6: -2974017439404255749
+      BattleBase pokemon remove bg_7: 8221227501732295328
+      BattleBase pokemon remove bg_8: -9086800345640641446
+      BattleBase pokemon remove bg_9: -1364085632842414167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

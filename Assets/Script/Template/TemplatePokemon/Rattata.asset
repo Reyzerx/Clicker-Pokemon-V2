@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bdda27064b1f104bbf388e204dc3223, type: 3}
+  m_Name: Rattata
+  m_EditorClassIdentifier: 
+  nom: Rattata
+  sprite: {fileID: -3541341937138507707, guid: af84c15c40462c740b8841ceca4b7239, type: 3}
+  type1: 9
+  type2: 1
+  baseDegat: 1
+  basePv: 45
+  multiplicateurDegat: 1.1
+  multiplicateurPv: 1.2
+  multiplicateurExpParNiveau: 1.15
+  baseExpPourUpNiveau: 10
+  baseExpDonnee: 20
+  cost: 0
+  estStocker: 0
+  estEquipe: 0
+  estShop: 0
+  estSauvage: 0
+  rarete: 0

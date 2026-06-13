@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - EstCliquable
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3457047261
+    locked: 0
+  - name: Ground
+    uniqueID: 3925596309
+    locked: 0
+  - name: Pokemon
+    uniqueID: 714571111
+    locked: 0
+  - name: Effect
+    uniqueID: 3829997369
+    locked: 0
+  - name: UI
+    uniqueID: 1112845567
+    locked: 0
+  m_RenderingLayers:
+  - Default
