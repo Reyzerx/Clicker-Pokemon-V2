@@ -17,12 +17,17 @@ MonoBehaviour:
   estDebloquee: 1
   pokemonRencontrables:
   - template: {fileID: 11400000, guid: 6b9013f6ba690ff43afb26fc92aa33e5, type: 2}
-    tauxApparition: 50
+    tauxApparition: 37.5
     niveauMin: 1
     niveauMax: 5
     rarete: 0
   - template: {fileID: 11400000, guid: 119660a3f2536a24db790459a8f9daba, type: 2}
-    tauxApparition: 50
+    tauxApparition: 37.5
     niveauMin: 1
     niveauMax: 5
     rarete: 0
+  - template: {fileID: 11400000, guid: 119660a3f2536a24db790459a8f9daba, type: 2}
+    tauxApparition: 25
+    niveauMin: 10
+    niveauMax: 10
+    rarete: 3

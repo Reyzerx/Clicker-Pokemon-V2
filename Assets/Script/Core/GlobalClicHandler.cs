@@ -30,13 +30,19 @@ public class GlobalClicHandler : MonoBehaviour
 
                 // Dégâts
                 enemy.pokemon.takeDamage(player.pokemon.getDegat());
-                WodEnemy.RefreshUI();
+                // Animation dégâts
+                WodEnemy.SpawnDamageText(player.pokemon.getDegat(), WodEnemy.damagePoint.position);
+                //Refresh de l'UI
+                WodEnemy.Bind(SessionManager.Instance.selectedEnemyPokemon);
 
                 // Vérifie si l'ennemi est mort
                 if (!enemy.isAlive)
                 {
                     // Donne l'XP au joueur
-                    bool leveledUp = player.pokemon.AjouterExperience(enemy.pokemon.expDonnee);
+                    //bool leveledUp = player.pokemon.AjouterExperience(enemy.pokemon.expDonnee);
+                    int xp = enemy.pokemon.GetExpGiven(player.pokemon.niveau);
+                    bool leveledUp = player.pokemon.AjouterExperience(xp);
+
                     WodPlayer.Bind(SessionManager.Instance.selectedPlayerPokemon);
 
                     if (leveledUp)

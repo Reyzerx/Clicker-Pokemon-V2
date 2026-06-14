@@ -145,9 +145,9 @@ public class Pokemon
 
     private int CalculExpPourNiveau(int niveau)
     {
-        // Formule simple : 20 + niveau * 10
-        return 20 + (niveau * 10);
+        return Mathf.RoundToInt(40 * Mathf.Pow(niveau, 1.4f));
     }
+
 
     public bool AjouterExperience(int amount)
     {
@@ -177,6 +177,31 @@ public class Pokemon
         maxPv = currentPv + (niveau * 5);
         currentPv = maxPv; // on restaure les PV au level up
         degat = degat + (niveau * 2);
+    }
+
+    public int GetExpGiven(int playerLevel)
+    {
+        // XP brute selon le niveau de l’ennemi
+        float xp = expDonnee;
+
+        int levelDiff = playerLevel - niveau;
+
+        // Réduction si le joueur est plus fort
+        if (levelDiff > 0)
+        {
+            float reduction = 1f - (levelDiff * 0.04f); // 4% par niveau d'écart
+            reduction = Mathf.Clamp(reduction, 0.10f, 1f); // jamais moins de 10%
+            xp *= reduction;
+        }
+
+        // Bonus si l’ennemi est plus fort
+        if (niveau > playerLevel)
+        {
+            float bonus = 1f + (niveau - playerLevel) * 0.08f; // 8% par niveau d'écart
+            xp *= bonus;
+        }
+
+        return Mathf.RoundToInt(xp);
     }
 
 

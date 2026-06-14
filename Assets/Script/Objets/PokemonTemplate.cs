@@ -32,6 +32,7 @@ public class PokemonTemplate : ScriptableObject
     [Header("Expérience")]
     public int baseExpPourUpNiveau = 10;
     public int baseExpDonnee = 20;
+    public float expGrowth = 1.15f; // croissance par niveau
 
     [Header("Shop")]
     public int cost;

@@ -5,8 +5,18 @@ public class WODEnemy : MonoBehaviour
     public MEnemy ui;      // ton module UI
     public Enemy enemy;    // ta logique métier
 
+    public RectTransform damageTextParent; // un container dans ton Canvas
+    private GameObject damageTextPrefab;
+
+    public Transform damagePoint;
+
     // Dossier où sont stockées les icônes de type
     private const string typeSpritePath = "Sprites/types_fr_"; // base du nom
+
+    void Awake()
+    {
+        damageTextPrefab = Resources.Load<GameObject>("Prefabs/DamageText");
+    }
 
     public void Bind(Enemy e)
     {
@@ -38,5 +48,16 @@ public class WODEnemy : MonoBehaviour
         // --- PV ---
         ui.hpSlider.maxValue = p.maxPv;
         ui.hpSlider.value = p.currentPv;
+    }
+
+    public void SpawnDamageText(int damage, Vector3 worldPosition)
+    {
+        //Vector2 screenPos = Camera.main.WorldToScreenPoint(worldPosition);
+        Vector2 screenPos = worldPosition;
+
+        GameObject go = Instantiate(damageTextPrefab, damageTextParent);
+        go.transform.position = screenPos;
+
+        go.GetComponent<DamageText>().Init(damage);
     }
 }
